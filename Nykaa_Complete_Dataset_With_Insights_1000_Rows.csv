@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Year,Quarter,Month,Customer_ID,Gender,Age_Group,Customer_Segment,Brand,Category,Sub_Category,Unit_Price,Listing_Type,Quantity,Revenue,Discount,Profit,Stock_Received,Stock_Available,City,State,Region,Delivery_Days,Returned,Rating,Feedback_Sentiment
+O00001,2012-12-12,2012,Q4,Dec,C0002,Female,45+,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,124,1191,2032,1534,Bangalore,Karnataka,South,5,Yes,3,Neutral
+O00002,2015-04-06,2015,Q2,Apr,C0003,Male,26-35,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,82,227,4443,3797,Hyderabad,Telangana,South,1,Yes,2,Negative
+O00003,2020-01-18,2020,Q1,Jan,C0004,Male,26-35,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,81,890,6092,5829,Bangalore,Karnataka,South,4,Yes,2,Negative
+O00004,2025-01-25,2025,Q1,Jan,C0005,Male,18-25,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,134,1132,5860,5055,Bangalore,Karnataka,South,5,Yes,3,Neutral
+O00005,2018-06-08,2018,Q2,Jun,C0006,Female,45+,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,2,930,5063,4192,Chennai,Tamil Nadu,South,7,Yes,5,Positive
+O00006,2023-05-07,2023,Q2,May,C0007,Female,36-45,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,11,1022,2673,2460,Chennai,Tamil Nadu,South,4,No,3,Neutral
+O00007,2024-05-21,2024,Q2,May,C0008,Male,45+,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,8,918,7120,6395,Mumbai,Maharashtra,West,2,Yes,5,Positive
+O00008,2015-01-29,2015,Q1,Jan,C0009,Male,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,78,1611,6078,5893,Mumbai,Maharashtra,West,3,No,5,Positive
+O00009,2023-09-20,2023,Q3,Sep,C0010,Male,45+,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,202,391,5355,4815,Chennai,Tamil Nadu,South,5,No,1,Negative
+O00010,2022-11-19,2022,Q4,Nov,C0011,Male,26-35,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,206,704,7975,7326,Kolkata,West Bengal,East,5,No,1,Negative
+O00011,2021-12-13,2021,Q4,Dec,C0012,Male,45+,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,157,333,5750,5338,Chennai,Tamil Nadu,South,1,No,3,Neutral
+O00012,2017-11-12,2017,Q4,Nov,C0013,Male,18-25,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,148,1058,3447,2573,Pune,Maharashtra,West,5,Yes,3,Neutral
+O00013,2025-02-04,2025,Q1,Feb,C0014,Male,36-45,New,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,246,323,1852,1722,Pune,Maharashtra,West,6,No,1,Negative
+O00014,2019-11-16,2019,Q4,Nov,C0015,Female,18-25,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,206,1057,3860,3389,Bangalore,Karnataka,South,4,Yes,3,Neutral
+O00015,2015-05-24,2015,Q2,May,C0016,Female,18-25,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,215,801,4399,4193,Delhi,Delhi,North,1,Yes,3,Neutral
+O00016,2018-07-19,2018,Q3,Jul,C0017,Male,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,39,480,6085,5237,Pune,Maharashtra,West,4,No,3,Neutral
+O00017,2024-05-24,2024,Q2,May,C0018,Male,45+,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,44,655,2161,1774,Kolkata,West Bengal,East,4,Yes,2,Negative
+O00018,2024-03-04,2024,Q1,Mar,C0019,Female,26-35,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,63,412,1547,1362,Pune,Maharashtra,West,7,No,2,Negative
+O00019,2014-10-06,2014,Q4,Oct,C0020,Male,26-35,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,247,946,1899,1598,Chennai,Tamil Nadu,South,7,No,4,Positive
+O00020,2015-04-16,2015,Q2,Apr,C0021,Male,26-35,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,217,203,4368,3801,Mumbai,Maharashtra,West,5,No,5,Positive
+O00021,2024-02-24,2024,Q1,Feb,C0022,Male,36-45,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,143,648,7709,7196,Pune,Maharashtra,West,1,Yes,5,Positive
+O00022,2025-04-19,2025,Q2,Apr,C0023,Female,26-35,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,91,250,5883,5639,Hyderabad,Telangana,South,4,Yes,4,Positive
+O00023,2017-09-25,2017,Q3,Sep,C0024,Male,18-25,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,181,218,7696,7298,Delhi,Delhi,North,2,No,1,Negative
+O00024,2023-01-02,2023,Q1,Jan,C0025,Male,18-25,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,210,369,1454,859,Kolkata,West Bengal,East,6,Yes,5,Positive
+O00025,2019-03-10,2019,Q1,Mar,C0026,Female,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,167,311,5391,4913,Mumbai,Maharashtra,West,4,No,1,Negative
+O00026,2022-11-17,2022,Q4,Nov,C0027,Female,18-25,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,205,1432,1642,882,Chennai,Tamil Nadu,South,2,Yes,2,Negative
+O00027,2019-06-01,2019,Q2,Jun,C0028,Female,26-35,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,208,1033,7286,6720,Mumbai,Maharashtra,West,7,Yes,3,Neutral
+O00028,2013-12-08,2013,Q4,Dec,C0029,Male,26-35,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,147,478,5877,5303,Mumbai,Maharashtra,West,6,Yes,4,Positive
+O00029,2017-02-22,2017,Q1,Feb,C0030,Male,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,99,1582,7916,7213,Kolkata,West Bengal,East,7,No,4,Positive
+O00030,2020-06-04,2020,Q2,Jun,C0031,Male,45+,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,84,1047,3224,2832,Bangalore,Karnataka,South,3,Yes,5,Positive
+O00031,2013-06-14,2013,Q2,Jun,C0032,Male,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,35,1450,6877,6300,Pune,Maharashtra,West,7,No,1,Negative
+O00032,2020-03-03,2020,Q1,Mar,C0033,Male,26-35,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,167,629,5741,4990,Pune,Maharashtra,West,7,No,2,Negative
+O00033,2016-01-29,2016,Q1,Jan,C0034,Female,36-45,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,150,574,7670,7103,Kolkata,West Bengal,East,2,Yes,4,Positive
+O00034,2017-01-19,2017,Q1,Jan,C0035,Male,36-45,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,94,220,1500,937,Chennai,Tamil Nadu,South,7,Yes,5,Positive
+O00035,2021-08-01,2021,Q3,Aug,C0036,Male,36-45,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,137,615,1656,1148,Hyderabad,Telangana,South,3,Yes,3,Neutral
+O00036,2013-05-24,2013,Q2,May,C0037,Female,36-45,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,51,783,7029,6601,Hyderabad,Telangana,South,5,No,5,Positive
+O00037,2014-10-13,2014,Q4,Oct,C0038,Female,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,70,326,3718,3088,Kolkata,West Bengal,East,1,Yes,2,Negative
+O00038,2016-01-19,2016,Q1,Jan,C0039,Male,18-25,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,181,214,4148,3835,Kolkata,West Bengal,East,4,Yes,2,Negative
+O00039,2021-10-05,2021,Q4,Oct,C0040,Female,36-45,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,55,613,4522,4052,Kolkata,West Bengal,East,7,Yes,4,Positive
+O00040,2021-09-06,2021,Q3,Sep,C0041,Male,26-35,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,207,997,1799,1321,Kolkata,West Bengal,East,7,Yes,1,Negative
+O00041,2025-01-17,2025,Q1,Jan,C0042,Male,36-45,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,157,701,1697,979,Bangalore,Karnataka,South,7,Yes,2,Negative
+O00042,2025-05-09,2025,Q2,May,C0043,Female,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,116,1119,5921,5270,Hyderabad,Telangana,South,7,No,4,Positive
+O00043,2025-07-15,2025,Q3,Jul,C0044,Male,26-35,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,63,721,3802,3320,Kolkata,West Bengal,East,7,Yes,3,Neutral
+O00044,2016-05-20,2016,Q2,May,C0045,Male,18-25,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,99,451,7941,7720,Chennai,Tamil Nadu,South,5,Yes,4,Positive
+O00045,2016-12-03,2016,Q4,Dec,C0046,Female,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,155,1054,5078,4863,Hyderabad,Telangana,South,7,No,1,Negative
+O00046,2022-06-16,2022,Q2,Jun,C0047,Male,26-35,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,61,307,5549,4950,Pune,Maharashtra,West,6,No,4,Positive
+O00047,2023-09-16,2023,Q3,Sep,C0048,Female,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,176,1071,1076,326,Hyderabad,Telangana,South,3,No,4,Positive
+O00048,2014-10-12,2014,Q4,Oct,C0049,Female,36-45,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,170,775,2879,2335,Bangalore,Karnataka,South,3,Yes,4,Positive
+O00049,2012-12-16,2012,Q4,Dec,C0050,Male,18-25,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,134,375,7695,7292,Hyderabad,Telangana,South,3,No,1,Negative
+O00050,2016-08-30,2016,Q3,Aug,C0051,Male,18-25,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,108,759,7286,6531,Chennai,Tamil Nadu,South,6,No,1,Negative
+O00051,2014-08-21,2014,Q3,Aug,C0052,Male,36-45,New,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,81,1044,1171,464,Pune,Maharashtra,West,3,No,5,Positive
+O00052,2014-08-16,2014,Q3,Aug,C0053,Female,36-45,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,41,243,6693,6072,Hyderabad,Telangana,South,4,No,3,Neutral
+O00053,2013-01-16,2013,Q1,Jan,C0054,Female,18-25,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,161,873,3674,3509,Mumbai,Maharashtra,West,3,No,4,Positive
+O00054,2019-06-06,2019,Q2,Jun,C0055,Female,18-25,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,213,283,7446,6572,Mumbai,Maharashtra,West,4,Yes,4,Positive
+O00055,2018-05-24,2018,Q2,May,C0056,Male,18-25,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,8,890,4791,4243,Bangalore,Karnataka,South,1,Yes,2,Negative
+O00056,2017-12-19,2017,Q4,Dec,C0057,Male,18-25,New,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,126,165,6760,6413,Delhi,Delhi,North,3,No,5,Positive
+O00057,2012-05-13,2012,Q2,May,C0058,Male,18-25,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,126,868,2850,2429,Chennai,Tamil Nadu,South,3,No,4,Positive
+O00058,2013-06-30,2013,Q2,Jun,C0059,Male,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,115,359,4918,4115,Bangalore,Karnataka,South,1,No,1,Negative
+O00059,2015-01-21,2015,Q1,Jan,C0060,Male,26-35,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,114,976,1019,734,Kolkata,West Bengal,East,4,No,4,Positive
+O00060,2021-05-13,2021,Q2,May,C0061,Male,18-25,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,64,377,5653,4915,Mumbai,Maharashtra,West,5,Yes,1,Negative
+O00061,2013-11-19,2013,Q4,Nov,C0062,Male,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,198,1595,4682,3857,Delhi,Delhi,North,1,No,4,Positive
+O00062,2015-09-05,2015,Q3,Sep,C0063,Male,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,249,510,3028,2266,Kolkata,West Bengal,East,7,Yes,5,Positive
+O00063,2025-04-04,2025,Q2,Apr,C0064,Female,45+,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,121,196,6151,6004,Pune,Maharashtra,West,6,No,1,Negative
+O00064,2016-01-20,2016,Q1,Jan,C0065,Female,45+,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,235,260,3276,2495,Mumbai,Maharashtra,West,4,Yes,1,Negative
+O00065,2014-11-13,2014,Q4,Nov,C0066,Female,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,52,557,5503,5400,Pune,Maharashtra,West,6,Yes,1,Negative
+O00066,2025-09-15,2025,Q3,Sep,C0067,Male,18-25,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,216,978,3310,2634,Mumbai,Maharashtra,West,4,Yes,1,Negative
+O00067,2017-04-29,2017,Q2,Apr,C0068,Female,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,35,1330,1147,413,Pune,Maharashtra,West,5,Yes,5,Positive
+O00068,2012-05-26,2012,Q2,May,C0069,Female,18-25,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,240,140,6095,5622,Delhi,Delhi,North,2,No,3,Neutral
+O00069,2023-05-09,2023,Q2,May,C0070,Male,45+,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,30,744,6914,6776,Mumbai,Maharashtra,West,6,Yes,3,Neutral
+O00070,2017-04-28,2017,Q2,Apr,C0071,Female,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,140,369,6194,6005,Bangalore,Karnataka,South,5,Yes,1,Negative
+O00071,2019-11-06,2019,Q4,Nov,C0072,Male,36-45,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,65,1118,3754,2966,Hyderabad,Telangana,South,5,No,4,Positive
+O00072,2023-12-06,2023,Q4,Dec,C0073,Male,18-25,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,220,642,5952,5576,Hyderabad,Telangana,South,2,No,2,Negative
+O00073,2023-10-13,2023,Q4,Oct,C0074,Male,36-45,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,223,589,4605,4036,Delhi,Delhi,North,6,Yes,1,Negative
+O00074,2020-04-25,2020,Q2,Apr,C0075,Male,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,112,1052,3226,2548,Pune,Maharashtra,West,6,No,2,Negative
+O00075,2013-03-31,2013,Q1,Mar,C0076,Male,26-35,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,145,351,3449,2968,Bangalore,Karnataka,South,3,No,4,Positive
+O00076,2023-08-27,2023,Q3,Aug,C0077,Male,18-25,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,201,409,4124,3748,Kolkata,West Bengal,East,4,Yes,4,Positive
+O00077,2024-11-12,2024,Q4,Nov,C0078,Female,18-25,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,106,630,5814,4954,Pune,Maharashtra,West,4,No,1,Negative
+O00078,2017-06-05,2017,Q2,Jun,C0079,Female,26-35,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,77,856,1006,557,Bangalore,Karnataka,South,4,No,1,Negative
+O00079,2022-01-21,2022,Q1,Jan,C0080,Female,36-45,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,39,422,5433,4866,Mumbai,Maharashtra,West,6,Yes,4,Positive
+O00080,2025-04-04,2025,Q2,Apr,C0081,Male,18-25,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,34,1660,2102,1897,Pune,Maharashtra,West,5,No,5,Positive
+O00081,2016-12-16,2016,Q4,Dec,C0082,Female,45+,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,241,310,7711,6944,Kolkata,West Bengal,East,1,No,3,Neutral
+O00082,2014-08-19,2014,Q3,Aug,C0083,Male,36-45,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,3,320,4107,3371,Bangalore,Karnataka,South,7,No,3,Neutral
+O00083,2016-03-05,2016,Q1,Mar,C0084,Female,26-35,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,190,765,6311,5815,Bangalore,Karnataka,South,6,No,5,Positive
+O00084,2021-05-15,2021,Q2,May,C0085,Male,45+,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,73,439,7487,7177,Kolkata,West Bengal,East,6,No,1,Negative
+O00085,2022-11-02,2022,Q4,Nov,C0086,Male,26-35,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,167,497,3266,2868,Pune,Maharashtra,West,4,No,1,Negative
+O00086,2022-11-04,2022,Q4,Nov,C0087,Female,45+,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,170,943,3218,2411,Kolkata,West Bengal,East,6,No,2,Negative
+O00087,2025-09-28,2025,Q3,Sep,C0088,Female,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,247,455,2823,1928,Kolkata,West Bengal,East,1,No,4,Positive
+O00088,2018-10-31,2018,Q4,Oct,C0089,Female,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,166,298,3168,2640,Mumbai,Maharashtra,West,6,Yes,5,Positive
+O00089,2013-01-15,2013,Q1,Jan,C0090,Female,45+,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,1,616,2120,1497,Hyderabad,Telangana,South,4,Yes,2,Negative
+O00090,2013-11-08,2013,Q4,Nov,C0091,Male,36-45,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,108,216,3892,3735,Mumbai,Maharashtra,West,4,No,3,Neutral
+O00091,2013-04-24,2013,Q2,Apr,C0092,Female,18-25,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,58,1214,1364,793,Mumbai,Maharashtra,West,6,No,2,Negative
+O00092,2023-12-26,2023,Q4,Dec,C0093,Male,36-45,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,78,346,4206,3560,Hyderabad,Telangana,South,5,No,4,Positive
+O00093,2019-09-17,2019,Q3,Sep,C0094,Female,18-25,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,103,948,4794,4349,Hyderabad,Telangana,South,2,Yes,1,Negative
+O00094,2021-01-30,2021,Q1,Jan,C0095,Female,36-45,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,138,288,4573,4450,Delhi,Delhi,North,2,Yes,3,Neutral
+O00095,2019-01-01,2019,Q1,Jan,C0096,Female,45+,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,232,326,7210,6551,Kolkata,West Bengal,East,5,No,2,Negative
+O00096,2020-07-04,2020,Q3,Jul,C0097,Female,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,179,620,5391,4816,Hyderabad,Telangana,South,1,Yes,3,Neutral
+O00097,2020-07-15,2020,Q3,Jul,C0098,Male,45+,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,174,715,5083,4346,Mumbai,Maharashtra,West,4,Yes,5,Positive
+O00098,2016-06-23,2016,Q2,Jun,C0099,Female,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,107,1258,7145,6807,Kolkata,West Bengal,East,3,No,1,Negative
+O00099,2022-04-08,2022,Q2,Apr,C0100,Female,18-25,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,166,537,4160,3954,Kolkata,West Bengal,East,1,No,4,Positive
+O00100,2020-12-13,2020,Q4,Dec,C0101,Female,26-35,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,189,1037,3677,3445,Delhi,Delhi,North,2,No,5,Positive
+O00101,2016-10-01,2016,Q4,Oct,C0102,Female,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,244,1469,1857,1431,Pune,Maharashtra,West,3,Yes,3,Neutral
+O00102,2022-05-21,2022,Q2,May,C0103,Male,36-45,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,36,542,5526,5412,Bangalore,Karnataka,South,3,Yes,1,Negative
+O00103,2016-07-12,2016,Q3,Jul,C0104,Male,26-35,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,208,801,5407,4565,Kolkata,West Bengal,East,4,Yes,2,Negative
+O00104,2018-07-17,2018,Q3,Jul,C0105,Male,26-35,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,248,267,7015,6738,Bangalore,Karnataka,South,3,Yes,2,Negative
+O00105,2017-08-08,2017,Q3,Aug,C0106,Female,45+,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,184,384,7406,7013,Bangalore,Karnataka,South,7,Yes,1,Negative
+O00106,2020-01-05,2020,Q1,Jan,C0107,Female,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,113,336,5061,4525,Bangalore,Karnataka,South,2,No,2,Negative
+O00107,2015-08-16,2015,Q3,Aug,C0108,Male,18-25,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,95,1030,6042,5538,Delhi,Delhi,North,1,Yes,2,Negative
+O00108,2020-01-14,2020,Q1,Jan,C0109,Female,18-25,New,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,83,461,2779,2605,Kolkata,West Bengal,East,1,No,3,Neutral
+O00109,2012-06-23,2012,Q2,Jun,C0110,Male,26-35,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,229,1125,6837,6455,Delhi,Delhi,North,7,Yes,2,Negative
+O00110,2025-04-18,2025,Q2,Apr,C0111,Female,26-35,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,170,714,5358,5000,Chennai,Tamil Nadu,South,3,Yes,1,Negative
+O00111,2014-10-10,2014,Q4,Oct,C0112,Female,45+,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,214,644,4276,3737,Pune,Maharashtra,West,4,Yes,4,Positive
+O00112,2017-08-09,2017,Q3,Aug,C0113,Male,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,176,1200,3239,2685,Chennai,Tamil Nadu,South,5,Yes,5,Positive
+O00113,2020-09-26,2020,Q3,Sep,C0114,Female,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,205,545,7773,7119,Bangalore,Karnataka,South,3,Yes,5,Positive
+O00114,2014-12-11,2014,Q4,Dec,C0115,Female,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,91,400,4698,4285,Mumbai,Maharashtra,West,2,No,1,Negative
+O00115,2012-02-28,2012,Q1,Feb,C0116,Male,36-45,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,14,311,1325,506,Pune,Maharashtra,West,6,Yes,2,Negative
+O00116,2023-05-15,2023,Q2,May,C0117,Female,45+,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,61,1024,3841,2967,Hyderabad,Telangana,South,5,Yes,1,Negative
+O00117,2023-10-25,2023,Q4,Oct,C0118,Male,26-35,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,138,799,6504,5615,Delhi,Delhi,North,1,No,4,Positive
+O00118,2015-06-30,2015,Q2,Jun,C0119,Male,26-35,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,4,331,3523,2976,Delhi,Delhi,North,5,Yes,1,Negative
+O00119,2023-05-30,2023,Q2,May,C0120,Male,18-25,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,250,804,3548,2673,Mumbai,Maharashtra,West,5,No,4,Positive
+O00120,2016-02-18,2016,Q1,Feb,C0121,Male,45+,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,114,302,3892,3443,Bangalore,Karnataka,South,3,Yes,1,Negative
+O00121,2019-07-22,2019,Q3,Jul,C0122,Female,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,73,1720,5346,5135,Chennai,Tamil Nadu,South,7,No,2,Negative
+O00122,2024-07-16,2024,Q3,Jul,C0123,Male,18-25,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,61,240,3259,2600,Bangalore,Karnataka,South,4,Yes,2,Negative
+O00123,2015-12-15,2015,Q4,Dec,C0124,Female,36-45,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,244,348,2613,2124,Bangalore,Karnataka,South,4,Yes,1,Negative
+O00124,2020-08-25,2020,Q3,Aug,C0125,Male,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,249,1058,2438,1920,Chennai,Tamil Nadu,South,4,No,5,Positive
+O00125,2018-07-02,2018,Q3,Jul,C0126,Male,26-35,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,91,631,4755,4328,Kolkata,West Bengal,East,7,No,2,Negative
+O00126,2021-02-24,2021,Q1,Feb,C0127,Female,26-35,New,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,7,384,4291,3984,Bangalore,Karnataka,South,3,Yes,1,Negative
+O00127,2020-09-01,2020,Q3,Sep,C0128,Female,18-25,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,38,187,1671,930,Kolkata,West Bengal,East,2,No,1,Negative
+O00128,2023-10-26,2023,Q4,Oct,C0129,Female,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,147,338,4466,3822,Mumbai,Maharashtra,West,2,Yes,1,Negative
+O00129,2017-05-28,2017,Q2,May,C0130,Male,36-45,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,138,659,3494,3367,Bangalore,Karnataka,South,1,Yes,5,Positive
+O00130,2014-10-15,2014,Q4,Oct,C0131,Male,36-45,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,204,679,5125,4301,Chennai,Tamil Nadu,South,3,Yes,2,Negative
+O00131,2025-07-07,2025,Q3,Jul,C0132,Male,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,15,1085,6640,5873,Delhi,Delhi,North,2,No,3,Neutral
+O00132,2018-03-25,2018,Q1,Mar,C0133,Female,18-25,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,113,749,4695,4496,Bangalore,Karnataka,South,2,Yes,2,Negative
+O00133,2022-10-25,2022,Q4,Oct,C0134,Female,18-25,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,244,479,6013,5304,Mumbai,Maharashtra,West,4,No,3,Neutral
+O00134,2024-08-14,2024,Q3,Aug,C0135,Female,18-25,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,101,277,1037,792,Delhi,Delhi,North,2,Yes,4,Positive
+O00135,2018-08-15,2018,Q3,Aug,C0136,Male,26-35,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,143,391,5058,4423,Hyderabad,Telangana,South,4,Yes,5,Positive
+O00136,2014-07-11,2014,Q3,Jul,C0137,Male,45+,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,45,971,7605,6995,Hyderabad,Telangana,South,5,Yes,1,Negative
+O00137,2016-08-02,2016,Q3,Aug,C0138,Male,26-35,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,184,182,5866,5003,Delhi,Delhi,North,1,No,5,Positive
+O00138,2022-06-08,2022,Q2,Jun,C0139,Female,18-25,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,239,181,6831,6294,Bangalore,Karnataka,South,3,No,3,Neutral
+O00139,2022-06-15,2022,Q2,Jun,C0140,Male,36-45,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,129,1259,6704,6213,Bangalore,Karnataka,South,6,No,2,Negative
+O00140,2020-07-31,2020,Q3,Jul,C0141,Female,26-35,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,245,241,2635,2191,Hyderabad,Telangana,South,1,No,2,Negative
+O00141,2018-08-26,2018,Q3,Aug,C0142,Female,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,220,294,4452,3564,Hyderabad,Telangana,South,3,Yes,1,Negative
+O00142,2016-10-07,2016,Q4,Oct,C0143,Male,18-25,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,247,396,6825,6427,Hyderabad,Telangana,South,2,No,4,Positive
+O00143,2014-07-16,2014,Q3,Jul,C0144,Female,18-25,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,17,664,2852,2085,Mumbai,Maharashtra,West,2,Yes,4,Positive
+O00144,2014-01-30,2014,Q1,Jan,C0145,Male,36-45,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,237,586,1244,631,Chennai,Tamil Nadu,South,4,Yes,2,Negative
+O00145,2012-04-13,2012,Q2,Apr,C0146,Female,36-45,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,104,795,4862,4036,Pune,Maharashtra,West,4,Yes,4,Positive
+O00146,2019-03-06,2019,Q1,Mar,C0147,Male,18-25,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,21,633,1966,1677,Mumbai,Maharashtra,West,1,Yes,1,Negative
+O00147,2024-06-27,2024,Q2,Jun,C0148,Female,26-35,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,139,293,1159,400,Pune,Maharashtra,West,1,Yes,4,Positive
+O00148,2021-04-01,2021,Q2,Apr,C0149,Female,36-45,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,17,391,3002,2743,Mumbai,Maharashtra,West,5,Yes,2,Negative
+O00149,2023-07-10,2023,Q3,Jul,C0150,Female,26-35,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,78,1298,3832,3100,Chennai,Tamil Nadu,South,5,No,1,Negative
+O00150,2015-04-02,2015,Q2,Apr,C0151,Female,26-35,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,48,371,3702,2972,Hyderabad,Telangana,South,7,Yes,4,Positive
+O00151,2023-04-21,2023,Q2,Apr,C0152,Female,45+,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,200,348,1676,1153,Mumbai,Maharashtra,West,7,No,5,Positive
+O00152,2024-05-13,2024,Q2,May,C0153,Male,45+,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,223,626,3718,2844,Delhi,Delhi,North,5,Yes,4,Positive
+O00153,2025-11-04,2025,Q4,Nov,C0154,Female,26-35,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,36,281,6280,6115,Pune,Maharashtra,West,4,No,3,Neutral
+O00154,2019-06-28,2019,Q2,Jun,C0155,Female,26-35,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,70,427,2662,1898,Mumbai,Maharashtra,West,6,No,4,Positive
+O00155,2022-04-24,2022,Q2,Apr,C0156,Male,36-45,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,124,485,6736,5915,Delhi,Delhi,North,6,No,2,Negative
+O00156,2018-10-09,2018,Q4,Oct,C0157,Female,26-35,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,125,1333,7434,7018,Delhi,Delhi,North,6,Yes,4,Positive
+O00157,2015-08-16,2015,Q3,Aug,C0158,Female,36-45,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,145,397,2216,1599,Bangalore,Karnataka,South,1,No,5,Positive
+O00158,2022-08-25,2022,Q3,Aug,C0159,Female,26-35,New,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,53,525,4002,3818,Chennai,Tamil Nadu,South,7,Yes,3,Neutral
+O00159,2016-09-28,2016,Q3,Sep,C0160,Male,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,100,322,5054,4839,Delhi,Delhi,North,4,Yes,4,Positive
+O00160,2015-12-07,2015,Q4,Dec,C0161,Male,26-35,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,59,583,5412,5124,Bangalore,Karnataka,South,3,No,5,Positive
+O00161,2016-10-13,2016,Q4,Oct,C0162,Male,45+,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,196,845,3153,2868,Delhi,Delhi,North,6,No,5,Positive
+O00162,2018-08-15,2018,Q3,Aug,C0163,Male,36-45,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,113,312,1869,1133,Kolkata,West Bengal,East,2,Yes,5,Positive
+O00163,2022-08-16,2022,Q3,Aug,C0164,Male,45+,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,177,502,4440,3736,Kolkata,West Bengal,East,6,No,2,Negative
+O00164,2021-04-14,2021,Q2,Apr,C0165,Male,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,224,800,1737,881,Mumbai,Maharashtra,West,1,Yes,4,Positive
+O00165,2015-05-07,2015,Q2,May,C0166,Female,18-25,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,212,543,5275,4637,Pune,Maharashtra,West,7,Yes,4,Positive
+O00166,2014-07-27,2014,Q3,Jul,C0167,Female,26-35,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,22,383,7561,7211,Chennai,Tamil Nadu,South,5,No,5,Positive
+O00167,2022-07-17,2022,Q3,Jul,C0168,Male,18-25,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,221,552,2174,1994,Hyderabad,Telangana,South,5,No,3,Neutral
+O00168,2025-04-24,2025,Q2,Apr,C0169,Male,45+,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,181,1138,2286,1950,Delhi,Delhi,North,1,No,4,Positive
+O00169,2025-07-23,2025,Q3,Jul,C0170,Female,45+,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,202,163,4339,3586,Kolkata,West Bengal,East,1,No,3,Neutral
+O00170,2020-10-31,2020,Q4,Oct,C0171,Female,45+,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,161,546,7393,6899,Hyderabad,Telangana,South,5,Yes,3,Neutral
+O00171,2018-11-18,2018,Q4,Nov,C0172,Female,36-45,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,14,319,5569,5018,Chennai,Tamil Nadu,South,3,Yes,2,Negative
+O00172,2021-07-30,2021,Q3,Jul,C0173,Male,36-45,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,228,1077,1820,1449,Pune,Maharashtra,West,1,No,2,Negative
+O00173,2017-03-29,2017,Q1,Mar,C0174,Male,45+,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,153,330,1635,1335,Chennai,Tamil Nadu,South,6,No,5,Positive
+O00174,2024-06-10,2024,Q2,Jun,C0175,Male,18-25,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,185,541,1966,1438,Kolkata,West Bengal,East,4,Yes,3,Neutral
+O00175,2015-05-02,2015,Q2,May,C0176,Female,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,222,393,1993,1859,Delhi,Delhi,North,1,No,4,Positive
+O00176,2020-08-17,2020,Q3,Aug,C0177,Male,18-25,New,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,104,195,3061,2251,Hyderabad,Telangana,South,1,Yes,1,Negative
+O00177,2025-11-05,2025,Q4,Nov,C0178,Female,45+,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,126,263,3788,3181,Pune,Maharashtra,West,1,Yes,2,Negative
+O00178,2021-04-08,2021,Q2,Apr,C0179,Female,18-25,New,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,239,749,7634,7506,Bangalore,Karnataka,South,3,No,5,Positive
+O00179,2012-07-10,2012,Q3,Jul,C0180,Female,45+,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,178,144,3578,3090,Hyderabad,Telangana,South,4,Yes,5,Positive
+O00180,2015-11-10,2015,Q4,Nov,C0181,Male,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,53,543,6870,6380,Kolkata,West Bengal,East,6,No,4,Positive
+O00181,2020-08-31,2020,Q3,Aug,C0182,Male,45+,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,22,526,7063,6692,Chennai,Tamil Nadu,South,6,No,5,Positive
+O00182,2014-01-14,2014,Q1,Jan,C0183,Female,18-25,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,75,343,7919,7062,Mumbai,Maharashtra,West,4,No,5,Positive
+O00183,2014-04-06,2014,Q2,Apr,C0184,Male,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,58,777,5299,4600,Hyderabad,Telangana,South,7,No,1,Negative
+O00184,2019-09-07,2019,Q3,Sep,C0185,Male,18-25,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,172,1499,5680,5580,Pune,Maharashtra,West,4,Yes,5,Positive
+O00185,2017-12-23,2017,Q4,Dec,C0186,Male,26-35,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,169,296,1309,1082,Mumbai,Maharashtra,West,4,No,5,Positive
+O00186,2013-12-14,2013,Q4,Dec,C0187,Female,18-25,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,128,202,4618,3720,Delhi,Delhi,North,4,No,3,Neutral
+O00187,2012-04-02,2012,Q2,Apr,C0188,Male,45+,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,165,782,5052,4315,Bangalore,Karnataka,South,7,Yes,2,Negative
+O00188,2017-02-10,2017,Q1,Feb,C0189,Female,26-35,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,162,1053,4047,3897,Kolkata,West Bengal,East,1,Yes,3,Neutral
+O00189,2017-10-09,2017,Q4,Oct,C0190,Male,45+,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,105,708,5689,5018,Mumbai,Maharashtra,West,6,Yes,1,Negative
+O00190,2024-12-06,2024,Q4,Dec,C0191,Female,26-35,New,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,203,425,3558,3224,Delhi,Delhi,North,2,Yes,3,Neutral
+O00191,2017-10-12,2017,Q4,Oct,C0192,Male,36-45,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,163,1047,3461,2657,Chennai,Tamil Nadu,South,4,Yes,4,Positive
+O00192,2019-09-01,2019,Q3,Sep,C0193,Female,36-45,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,238,365,4050,3764,Kolkata,West Bengal,East,7,No,4,Positive
+O00193,2013-02-02,2013,Q1,Feb,C0194,Male,18-25,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,197,439,2142,1657,Hyderabad,Telangana,South,7,Yes,1,Negative
+O00194,2023-11-14,2023,Q4,Nov,C0195,Male,45+,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,33,563,3390,3171,Pune,Maharashtra,West,7,No,2,Negative
+O00195,2023-09-11,2023,Q3,Sep,C0196,Male,36-45,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,132,260,2189,1342,Bangalore,Karnataka,South,2,No,1,Negative
+O00196,2025-09-09,2025,Q3,Sep,C0197,Female,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,164,269,4289,3513,Chennai,Tamil Nadu,South,7,Yes,5,Positive
+O00197,2013-06-11,2013,Q2,Jun,C0198,Female,36-45,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,131,406,2351,1477,Delhi,Delhi,North,6,Yes,5,Positive
+O00198,2013-10-26,2013,Q4,Oct,C0199,Male,18-25,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,186,402,1006,158,Kolkata,West Bengal,East,1,No,5,Positive
+O00199,2025-07-20,2025,Q3,Jul,C0200,Male,36-45,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,249,858,3323,3187,Hyderabad,Telangana,South,6,Yes,5,Positive
+O00200,2024-05-05,2024,Q2,May,C0201,Male,26-35,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,236,602,3425,2780,Delhi,Delhi,North,4,No,5,Positive
+O00201,2025-01-29,2025,Q1,Jan,C0202,Male,36-45,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,238,803,7365,6989,Kolkata,West Bengal,East,3,No,1,Negative
+O00202,2014-11-30,2014,Q4,Nov,C0203,Female,26-35,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,90,661,7925,7113,Chennai,Tamil Nadu,South,4,No,2,Negative
+O00203,2019-06-17,2019,Q2,Jun,C0204,Male,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,225,696,6954,6444,Kolkata,West Bengal,East,3,Yes,2,Negative
+O00204,2015-02-06,2015,Q1,Feb,C0205,Male,36-45,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,58,618,1468,1186,Kolkata,West Bengal,East,5,Yes,5,Positive
+O00205,2021-03-26,2021,Q1,Mar,C0206,Male,36-45,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,78,685,1804,1380,Mumbai,Maharashtra,West,2,No,1,Negative
+O00206,2021-11-20,2021,Q4,Nov,C0207,Female,26-35,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,247,816,5248,4530,Mumbai,Maharashtra,West,6,Yes,2,Negative
+O00207,2017-02-19,2017,Q1,Feb,C0208,Male,18-25,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,200,618,2889,2134,Bangalore,Karnataka,South,7,No,5,Positive
+O00208,2014-01-30,2014,Q1,Jan,C0209,Male,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,114,366,1420,561,Kolkata,West Bengal,East,6,Yes,3,Neutral
+O00209,2013-07-07,2013,Q3,Jul,C0210,Female,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,23,644,2021,1361,Hyderabad,Telangana,South,4,Yes,3,Neutral
+O00210,2013-08-19,2013,Q3,Aug,C0211,Male,36-45,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,140,1125,4463,4321,Delhi,Delhi,North,6,Yes,5,Positive
+O00211,2021-05-30,2021,Q2,May,C0212,Male,18-25,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,235,708,2941,2725,Bangalore,Karnataka,South,2,Yes,5,Positive
+O00212,2021-09-09,2021,Q3,Sep,C0213,Female,36-45,New,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,133,225,1532,895,Kolkata,West Bengal,East,7,Yes,3,Neutral
+O00213,2016-04-12,2016,Q2,Apr,C0214,Male,26-35,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,154,562,5569,4941,Pune,Maharashtra,West,2,No,1,Negative
+O00214,2015-06-02,2015,Q2,Jun,C0215,Male,18-25,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,77,730,2401,1573,Delhi,Delhi,North,3,No,3,Neutral
+O00215,2022-09-09,2022,Q3,Sep,C0216,Female,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,137,1692,7053,6434,Kolkata,West Bengal,East,3,Yes,1,Negative
+O00216,2014-11-02,2014,Q4,Nov,C0217,Male,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,116,1076,2968,2783,Hyderabad,Telangana,South,4,No,1,Negative
+O00217,2025-09-29,2025,Q3,Sep,C0218,Female,45+,New,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,240,158,7164,6757,Hyderabad,Telangana,South,3,No,2,Negative
+O00218,2023-11-30,2023,Q4,Nov,C0219,Female,18-25,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,53,1401,6179,6078,Bangalore,Karnataka,South,1,No,3,Neutral
+O00219,2019-06-22,2019,Q2,Jun,C0220,Female,36-45,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,178,441,1743,1074,Mumbai,Maharashtra,West,6,Yes,3,Neutral
+O00220,2025-10-21,2025,Q4,Oct,C0221,Male,45+,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,168,797,5587,4859,Bangalore,Karnataka,South,1,No,3,Neutral
+O00221,2024-10-08,2024,Q4,Oct,C0222,Male,45+,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,127,903,6262,5734,Kolkata,West Bengal,East,7,Yes,4,Positive
+O00222,2020-09-18,2020,Q3,Sep,C0223,Male,36-45,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,2,343,4104,3338,Mumbai,Maharashtra,West,3,No,5,Positive
+O00223,2022-05-30,2022,Q2,May,C0224,Female,45+,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,100,956,2742,2465,Mumbai,Maharashtra,West,7,Yes,1,Negative
+O00224,2024-02-15,2024,Q1,Feb,C0225,Female,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,196,224,3894,3726,Bangalore,Karnataka,South,2,No,3,Neutral
+O00225,2014-05-15,2014,Q2,May,C0226,Female,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,17,690,7699,7238,Pune,Maharashtra,West,7,No,2,Negative
+O00226,2017-08-28,2017,Q3,Aug,C0227,Male,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,161,405,5066,4591,Hyderabad,Telangana,South,7,No,1,Negative
+O00227,2014-11-30,2014,Q4,Nov,C0228,Female,26-35,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,196,861,5377,4605,Chennai,Tamil Nadu,South,5,Yes,5,Positive
+O00228,2024-02-26,2024,Q1,Feb,C0229,Male,36-45,New,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,193,533,2614,2080,Kolkata,West Bengal,East,7,Yes,1,Negative
+O00229,2023-05-24,2023,Q2,May,C0230,Female,36-45,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,31,979,4601,3828,Pune,Maharashtra,West,4,No,1,Negative
+O00230,2025-09-01,2025,Q3,Sep,C0231,Male,45+,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,97,617,6796,5908,Chennai,Tamil Nadu,South,2,Yes,2,Negative
+O00231,2024-12-13,2024,Q4,Dec,C0232,Male,45+,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,190,704,3775,3101,Hyderabad,Telangana,South,1,No,4,Positive
+O00232,2023-05-28,2023,Q2,May,C0233,Female,36-45,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,53,328,7829,7268,Chennai,Tamil Nadu,South,3,No,3,Neutral
+O00233,2023-06-18,2023,Q2,Jun,C0234,Male,18-25,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,214,928,5250,5059,Chennai,Tamil Nadu,South,5,Yes,1,Negative
+O00234,2024-01-01,2024,Q1,Jan,C0235,Male,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,203,251,7581,7025,Hyderabad,Telangana,South,7,No,4,Positive
+O00235,2018-03-16,2018,Q1,Mar,C0236,Female,36-45,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,71,204,3637,3038,Hyderabad,Telangana,South,7,Yes,1,Negative
+O00236,2022-10-03,2022,Q4,Oct,C0237,Male,36-45,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,223,382,5811,4921,Mumbai,Maharashtra,West,6,No,4,Positive
+O00237,2024-08-02,2024,Q3,Aug,C0238,Male,45+,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,217,1026,2003,1566,Bangalore,Karnataka,South,2,Yes,4,Positive
+O00238,2025-01-05,2025,Q1,Jan,C0239,Male,45+,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,202,696,7896,7504,Delhi,Delhi,North,2,No,4,Positive
+O00239,2015-04-04,2015,Q2,Apr,C0240,Female,26-35,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,213,1044,2997,2233,Mumbai,Maharashtra,West,6,No,5,Positive
+O00240,2024-12-21,2024,Q4,Dec,C0241,Male,36-45,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,172,341,7854,6978,Hyderabad,Telangana,South,1,Yes,3,Neutral
+O00241,2016-01-13,2016,Q1,Jan,C0242,Male,26-35,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,39,908,4130,3748,Delhi,Delhi,North,5,Yes,4,Positive
+O00242,2014-04-28,2014,Q2,Apr,C0243,Male,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,125,1579,5958,5848,Kolkata,West Bengal,East,5,No,1,Negative
+O00243,2022-05-16,2022,Q2,May,C0244,Female,45+,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,97,252,3900,3458,Kolkata,West Bengal,East,1,No,2,Negative
+O00244,2023-06-26,2023,Q2,Jun,C0245,Male,45+,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,238,158,1868,1107,Mumbai,Maharashtra,West,6,No,5,Positive
+O00245,2016-05-21,2016,Q2,May,C0246,Male,18-25,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,225,137,7147,7018,Hyderabad,Telangana,South,7,Yes,1,Negative
+O00246,2022-05-29,2022,Q2,May,C0247,Female,26-35,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,86,657,7767,7179,Mumbai,Maharashtra,West,1,Yes,3,Neutral
+O00247,2021-01-25,2021,Q1,Jan,C0248,Female,18-25,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,223,301,1841,1672,Mumbai,Maharashtra,West,3,Yes,2,Negative
+O00248,2015-10-27,2015,Q4,Oct,C0249,Male,18-25,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,73,295,3563,3165,Delhi,Delhi,North,3,No,1,Negative
+O00249,2020-09-08,2020,Q3,Sep,C0250,Male,45+,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,192,452,7044,6881,Kolkata,West Bengal,East,3,No,2,Negative
+O00250,2019-06-26,2019,Q2,Jun,C0251,Male,26-35,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,12,1058,5838,5263,Hyderabad,Telangana,South,3,Yes,5,Positive
+O00251,2018-02-12,2018,Q1,Feb,C0252,Male,36-45,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,73,755,2383,1938,Hyderabad,Telangana,South,6,Yes,2,Negative
+O00252,2022-11-27,2022,Q4,Nov,C0253,Male,36-45,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,72,239,4912,4166,Delhi,Delhi,North,1,Yes,5,Positive
+O00253,2024-02-05,2024,Q1,Feb,C0254,Female,36-45,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,32,683,6475,6126,Delhi,Delhi,North,3,No,2,Negative
+O00254,2018-12-31,2018,Q4,Dec,C0255,Male,45+,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,142,372,5620,5307,Mumbai,Maharashtra,West,6,Yes,4,Positive
+O00255,2014-02-19,2014,Q1,Feb,C0256,Male,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,169,1060,2612,2441,Hyderabad,Telangana,South,5,Yes,5,Positive
+O00256,2014-08-14,2014,Q3,Aug,C0257,Female,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,222,678,3672,3468,Mumbai,Maharashtra,West,7,No,4,Positive
+O00257,2020-12-31,2020,Q4,Dec,C0258,Male,45+,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,7,325,3312,2850,Hyderabad,Telangana,South,6,Yes,5,Positive
+O00258,2018-06-11,2018,Q2,Jun,C0259,Male,26-35,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,114,720,7660,7328,Chennai,Tamil Nadu,South,3,No,2,Negative
+O00259,2017-09-01,2017,Q3,Sep,C0260,Female,36-45,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,233,192,5317,4795,Delhi,Delhi,North,1,No,5,Positive
+O00260,2016-03-29,2016,Q1,Mar,C0261,Male,36-45,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,158,870,2743,2360,Kolkata,West Bengal,East,2,Yes,1,Negative
+O00261,2024-02-10,2024,Q1,Feb,C0262,Female,45+,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,102,756,5172,4532,Delhi,Delhi,North,2,No,1,Negative
+O00262,2013-07-27,2013,Q3,Jul,C0263,Female,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,232,883,3426,3202,Mumbai,Maharashtra,West,2,No,5,Positive
+O00263,2024-02-13,2024,Q1,Feb,C0264,Male,45+,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,65,899,1163,372,Mumbai,Maharashtra,West,3,No,3,Neutral
+O00264,2018-08-24,2018,Q3,Aug,C0265,Male,26-35,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,185,1346,7798,6982,Bangalore,Karnataka,South,2,Yes,5,Positive
+O00265,2012-12-29,2012,Q4,Dec,C0266,Male,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,0,924,2124,1823,Pune,Maharashtra,West,3,No,4,Positive
+O00266,2016-12-05,2016,Q4,Dec,C0267,Female,45+,New,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,161,937,5360,5229,Chennai,Tamil Nadu,South,7,No,5,Positive
+O00267,2022-02-05,2022,Q1,Feb,C0268,Female,45+,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,11,1498,2631,2505,Kolkata,West Bengal,East,3,Yes,4,Positive
+O00268,2024-07-31,2024,Q3,Jul,C0269,Male,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,241,689,3823,3550,Hyderabad,Telangana,South,4,Yes,3,Neutral
+O00269,2017-05-25,2017,Q2,May,C0270,Male,45+,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,66,1313,4760,4138,Mumbai,Maharashtra,West,7,Yes,4,Positive
+O00270,2025-04-16,2025,Q2,Apr,C0271,Male,36-45,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,141,1320,1754,1531,Chennai,Tamil Nadu,South,1,Yes,4,Positive
+O00271,2024-04-11,2024,Q2,Apr,C0272,Male,36-45,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,219,1053,3435,2822,Bangalore,Karnataka,South,1,Yes,4,Positive
+O00272,2021-06-04,2021,Q2,Jun,C0273,Male,36-45,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,209,262,5052,4735,Delhi,Delhi,North,4,Yes,2,Negative
+O00273,2024-02-16,2024,Q1,Feb,C0274,Female,45+,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,243,792,2153,1605,Pune,Maharashtra,West,1,Yes,5,Positive
+O00274,2017-09-06,2017,Q3,Sep,C0275,Female,45+,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,178,1013,4916,4593,Pune,Maharashtra,West,6,No,4,Positive
+O00275,2016-09-13,2016,Q3,Sep,C0276,Male,26-35,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,98,607,4472,3845,Pune,Maharashtra,West,4,No,5,Positive
+O00276,2013-01-28,2013,Q1,Jan,C0277,Male,36-45,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,99,1064,1721,1362,Delhi,Delhi,North,3,Yes,2,Negative
+O00277,2013-09-14,2013,Q3,Sep,C0278,Female,18-25,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,247,311,4903,4261,Delhi,Delhi,North,7,No,4,Positive
+O00278,2023-07-17,2023,Q3,Jul,C0279,Female,18-25,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,111,225,7927,7490,Mumbai,Maharashtra,West,2,No,4,Positive
+O00279,2025-05-19,2025,Q2,May,C0280,Female,45+,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,164,398,2399,2033,Delhi,Delhi,North,1,No,1,Negative
+O00280,2024-11-19,2024,Q4,Nov,C0281,Male,26-35,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,233,721,6784,6652,Chennai,Tamil Nadu,South,2,Yes,3,Neutral
+O00281,2020-05-25,2020,Q2,May,C0282,Female,26-35,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,157,1110,7650,7112,Hyderabad,Telangana,South,7,No,3,Neutral
+O00282,2013-11-10,2013,Q4,Nov,C0283,Male,26-35,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,164,980,3396,3198,Pune,Maharashtra,West,5,No,4,Positive
+O00283,2022-01-30,2022,Q1,Jan,C0284,Male,26-35,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,112,1388,4069,3550,Mumbai,Maharashtra,West,6,No,2,Negative
+O00284,2020-02-08,2020,Q1,Feb,C0285,Male,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,184,1317,6185,5972,Mumbai,Maharashtra,West,7,Yes,4,Positive
+O00285,2016-11-09,2016,Q4,Nov,C0286,Female,36-45,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,231,913,1764,982,Bangalore,Karnataka,South,5,No,3,Neutral
+O00286,2022-07-09,2022,Q3,Jul,C0287,Female,26-35,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,228,358,3307,2686,Bangalore,Karnataka,South,6,No,4,Positive
+O00287,2017-05-12,2017,Q2,May,C0288,Male,26-35,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,224,597,3765,2910,Chennai,Tamil Nadu,South,1,No,3,Neutral
+O00288,2020-11-03,2020,Q4,Nov,C0289,Male,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,136,1291,5759,5266,Pune,Maharashtra,West,7,No,4,Positive
+O00289,2012-03-20,2012,Q1,Mar,C0290,Female,18-25,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,189,996,2975,2739,Chennai,Tamil Nadu,South,1,Yes,1,Negative
+O00290,2022-04-02,2022,Q2,Apr,C0291,Male,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,225,449,1408,973,Bangalore,Karnataka,South,5,No,5,Positive
+O00291,2021-10-16,2021,Q4,Oct,C0292,Male,36-45,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,138,234,4019,3187,Delhi,Delhi,North,4,No,1,Negative
+O00292,2017-11-17,2017,Q4,Nov,C0293,Female,26-35,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,133,763,1677,1491,Hyderabad,Telangana,South,4,No,2,Negative
+O00293,2014-12-02,2014,Q4,Dec,C0294,Female,26-35,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,75,707,6852,6280,Hyderabad,Telangana,South,6,Yes,1,Negative
+O00294,2016-10-15,2016,Q4,Oct,C0295,Male,18-25,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,237,479,2956,2809,Bangalore,Karnataka,South,5,Yes,1,Negative
+O00295,2014-07-12,2014,Q3,Jul,C0296,Female,26-35,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,48,505,3334,3091,Kolkata,West Bengal,East,4,No,5,Positive
+O00296,2015-02-25,2015,Q1,Feb,C0297,Female,45+,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,240,526,2718,2407,Delhi,Delhi,North,5,No,3,Neutral
+O00297,2023-02-04,2023,Q1,Feb,C0298,Male,36-45,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,133,523,2289,1479,Kolkata,West Bengal,East,2,Yes,4,Positive
+O00298,2013-05-17,2013,Q2,May,C0299,Female,36-45,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,69,1082,5023,4459,Delhi,Delhi,North,6,Yes,1,Negative
+O00299,2017-10-02,2017,Q4,Oct,C0300,Female,45+,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,118,904,6782,6428,Hyderabad,Telangana,South,5,No,1,Negative
+O00300,2022-03-23,2022,Q1,Mar,C0301,Female,18-25,New,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,200,954,3905,3035,Delhi,Delhi,North,6,No,2,Negative
+O00301,2023-01-12,2023,Q1,Jan,C0302,Female,18-25,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,1,840,4152,3398,Pune,Maharashtra,West,5,Yes,3,Neutral
+O00302,2018-02-08,2018,Q1,Feb,C0303,Female,36-45,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,43,533,4409,3575,Kolkata,West Bengal,East,2,No,1,Negative
+O00303,2018-04-02,2018,Q2,Apr,C0304,Female,45+,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,111,154,5623,5461,Bangalore,Karnataka,South,1,Yes,2,Negative
+O00304,2013-04-17,2013,Q2,Apr,C0305,Male,18-25,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,242,1461,6291,5838,Mumbai,Maharashtra,West,2,Yes,3,Neutral
+O00305,2018-04-20,2018,Q2,Apr,C0306,Male,26-35,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,246,617,4877,4096,Pune,Maharashtra,West,3,Yes,5,Positive
+O00306,2025-01-08,2025,Q1,Jan,C0307,Male,45+,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,176,316,1287,812,Kolkata,West Bengal,East,5,Yes,1,Negative
+O00307,2018-05-14,2018,Q2,May,C0308,Female,26-35,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,25,389,2658,1783,Pune,Maharashtra,West,7,No,5,Positive
+O00308,2025-12-17,2025,Q4,Dec,C0309,Male,18-25,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,15,254,5544,4663,Bangalore,Karnataka,South,4,No,5,Positive
+O00309,2020-11-16,2020,Q4,Nov,C0310,Male,18-25,New,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,147,511,6991,6494,Chennai,Tamil Nadu,South,5,No,4,Positive
+O00310,2023-01-11,2023,Q1,Jan,C0311,Male,36-45,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,118,266,4905,4403,Hyderabad,Telangana,South,4,Yes,3,Neutral
+O00311,2025-12-10,2025,Q4,Dec,C0312,Male,36-45,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,222,588,6323,5589,Bangalore,Karnataka,South,6,Yes,3,Neutral
+O00312,2013-11-27,2013,Q4,Nov,C0313,Female,18-25,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,179,575,6205,5815,Mumbai,Maharashtra,West,7,Yes,1,Negative
+O00313,2016-09-16,2016,Q3,Sep,C0314,Male,36-45,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,93,827,6536,6303,Hyderabad,Telangana,South,6,No,1,Negative
+O00314,2018-07-22,2018,Q3,Jul,C0315,Male,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,175,296,4362,4113,Mumbai,Maharashtra,West,7,No,2,Negative
+O00315,2017-08-15,2017,Q3,Aug,C0316,Male,45+,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,77,340,7656,7469,Bangalore,Karnataka,South,2,No,1,Negative
+O00316,2016-12-09,2016,Q4,Dec,C0317,Male,26-35,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,16,259,4905,4386,Kolkata,West Bengal,East,6,No,4,Positive
+O00317,2023-08-22,2023,Q3,Aug,C0318,Male,18-25,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,125,250,5268,5081,Kolkata,West Bengal,East,5,No,5,Positive
+O00318,2020-09-16,2020,Q3,Sep,C0319,Male,18-25,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,168,1071,6771,6377,Pune,Maharashtra,West,2,No,5,Positive
+O00319,2020-03-10,2020,Q1,Mar,C0320,Male,26-35,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,118,419,5297,4934,Chennai,Tamil Nadu,South,1,Yes,3,Neutral
+O00320,2024-02-17,2024,Q1,Feb,C0321,Female,36-45,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,63,291,7731,7271,Bangalore,Karnataka,South,4,Yes,2,Negative
+O00321,2016-03-13,2016,Q1,Mar,C0322,Female,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,6,716,5484,4752,Mumbai,Maharashtra,West,5,No,3,Neutral
+O00322,2016-12-05,2016,Q4,Dec,C0323,Male,18-25,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,72,1065,5672,5511,Delhi,Delhi,North,7,No,5,Positive
+O00323,2021-10-10,2021,Q4,Oct,C0324,Male,26-35,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,107,1656,2808,2156,Chennai,Tamil Nadu,South,5,No,1,Negative
+O00324,2020-12-17,2020,Q4,Dec,C0325,Male,26-35,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,95,158,7110,6763,Chennai,Tamil Nadu,South,5,Yes,1,Negative
+O00325,2019-05-14,2019,Q2,May,C0326,Male,26-35,New,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,213,916,6897,6386,Hyderabad,Telangana,South,6,Yes,4,Positive
+O00326,2019-06-24,2019,Q2,Jun,C0327,Male,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,97,1369,4256,3951,Mumbai,Maharashtra,West,5,No,2,Negative
+O00327,2018-12-26,2018,Q4,Dec,C0328,Female,45+,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,34,469,1756,1306,Chennai,Tamil Nadu,South,7,No,3,Neutral
+O00328,2020-10-13,2020,Q4,Oct,C0329,Male,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,167,1303,7649,7362,Pune,Maharashtra,West,3,Yes,4,Positive
+O00329,2024-12-02,2024,Q4,Dec,C0330,Female,45+,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,25,252,1166,603,Hyderabad,Telangana,South,2,No,4,Positive
+O00330,2016-04-01,2016,Q2,Apr,C0331,Male,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,98,390,3130,2798,Kolkata,West Bengal,East,3,No,2,Negative
+O00331,2016-01-01,2016,Q1,Jan,C0332,Male,18-25,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,68,170,1426,793,Kolkata,West Bengal,East,6,No,5,Positive
+O00332,2012-12-29,2012,Q4,Dec,C0333,Male,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,179,170,6638,6074,Delhi,Delhi,North,5,Yes,3,Neutral
+O00333,2018-11-10,2018,Q4,Nov,C0334,Male,18-25,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,193,510,1091,265,Bangalore,Karnataka,South,7,No,1,Negative
+O00334,2019-06-14,2019,Q2,Jun,C0335,Male,18-25,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,102,926,7997,7739,Chennai,Tamil Nadu,South,2,No,5,Positive
+O00335,2023-03-08,2023,Q1,Mar,C0336,Female,45+,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,70,984,3744,2936,Pune,Maharashtra,West,7,Yes,3,Neutral
+O00336,2019-08-26,2019,Q3,Aug,C0337,Male,26-35,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,12,1013,6978,6453,Hyderabad,Telangana,South,7,No,5,Positive
+O00337,2021-09-03,2021,Q3,Sep,C0338,Female,18-25,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,140,347,1600,1019,Kolkata,West Bengal,East,3,Yes,3,Neutral
+O00338,2020-09-19,2020,Q3,Sep,C0339,Male,36-45,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,91,768,5278,4750,Mumbai,Maharashtra,West,5,No,2,Negative
+O00339,2016-05-07,2016,Q2,May,C0340,Male,45+,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,115,1077,4030,3158,Mumbai,Maharashtra,West,4,No,4,Positive
+O00340,2020-06-11,2020,Q2,Jun,C0341,Female,45+,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,35,1015,4742,4369,Kolkata,West Bengal,East,1,No,4,Positive
+O00341,2019-12-04,2019,Q4,Dec,C0342,Female,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,28,1359,6217,6016,Mumbai,Maharashtra,West,3,No,4,Positive
+O00342,2014-08-12,2014,Q3,Aug,C0343,Female,36-45,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,183,758,1855,1330,Chennai,Tamil Nadu,South,3,No,3,Neutral
+O00343,2022-07-03,2022,Q3,Jul,C0344,Female,36-45,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,54,1207,7464,6648,Delhi,Delhi,North,4,Yes,2,Negative
+O00344,2015-12-24,2015,Q4,Dec,C0345,Female,26-35,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,41,1142,5012,4871,Delhi,Delhi,North,4,No,2,Negative
+O00345,2026-01-02,2026,Q1,Jan,C0346,Female,36-45,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,188,891,7053,6549,Bangalore,Karnataka,South,3,No,1,Negative
+O00346,2023-02-06,2023,Q1,Feb,C0347,Female,36-45,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,192,289,4863,4073,Chennai,Tamil Nadu,South,4,Yes,4,Positive
+O00347,2012-12-24,2012,Q4,Dec,C0348,Female,45+,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,176,543,5915,5686,Hyderabad,Telangana,South,3,Yes,4,Positive
+O00348,2018-03-01,2018,Q1,Mar,C0349,Male,18-25,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,28,750,7065,6280,Kolkata,West Bengal,East,1,No,1,Negative
+O00349,2015-06-27,2015,Q2,Jun,C0350,Male,45+,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,117,1285,2080,1773,Bangalore,Karnataka,South,7,No,4,Positive
+O00350,2017-06-22,2017,Q2,Jun,C0001,Male,45+,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,205,1073,7002,6596,Mumbai,Maharashtra,West,4,Yes,1,Negative
+O00351,2017-06-30,2017,Q2,Jun,C0002,Female,26-35,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,107,891,6004,5648,Mumbai,Maharashtra,West,5,No,1,Negative
+O00352,2013-11-13,2013,Q4,Nov,C0003,Female,26-35,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,130,259,1885,1515,Bangalore,Karnataka,South,4,Yes,3,Neutral
+O00353,2018-04-21,2018,Q2,Apr,C0004,Female,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,64,341,3207,2457,Mumbai,Maharashtra,West,6,Yes,2,Negative
+O00354,2023-09-05,2023,Q3,Sep,C0005,Male,36-45,New,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,52,733,1473,602,Chennai,Tamil Nadu,South,4,No,1,Negative
+O00355,2018-03-31,2018,Q1,Mar,C0006,Male,18-25,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,140,722,7601,7429,Hyderabad,Telangana,South,6,Yes,5,Positive
+O00356,2021-09-04,2021,Q3,Sep,C0007,Male,18-25,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,74,296,6360,5956,Pune,Maharashtra,West,6,No,3,Neutral
+O00357,2018-05-04,2018,Q2,May,C0008,Female,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,214,1279,5200,4311,Hyderabad,Telangana,South,1,No,1,Negative
+O00358,2013-09-30,2013,Q3,Sep,C0009,Female,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,184,290,1283,963,Kolkata,West Bengal,East,6,Yes,3,Neutral
+O00359,2017-07-07,2017,Q3,Jul,C0010,Male,45+,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,227,653,4869,4032,Kolkata,West Bengal,East,2,Yes,4,Positive
+O00360,2024-07-30,2024,Q3,Jul,C0011,Female,18-25,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,225,245,2697,2219,Kolkata,West Bengal,East,2,Yes,3,Neutral
+O00361,2023-08-15,2023,Q3,Aug,C0012,Male,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,100,440,3814,3222,Bangalore,Karnataka,South,6,No,1,Negative
+O00362,2024-01-30,2024,Q1,Jan,C0013,Female,26-35,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,138,271,6550,5731,Mumbai,Maharashtra,West,6,Yes,5,Positive
+O00363,2019-04-17,2019,Q2,Apr,C0014,Male,18-25,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,17,717,7246,6443,Chennai,Tamil Nadu,South,2,Yes,1,Negative
+O00364,2023-04-19,2023,Q2,Apr,C0015,Female,18-25,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,1,933,6558,6227,Kolkata,West Bengal,East,5,Yes,3,Neutral
+O00365,2024-08-26,2024,Q3,Aug,C0016,Female,45+,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,169,447,7790,7222,Bangalore,Karnataka,South,6,Yes,5,Positive
+O00366,2023-12-23,2023,Q4,Dec,C0017,Female,45+,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,147,377,5223,4727,Mumbai,Maharashtra,West,6,No,3,Neutral
+O00367,2013-02-10,2013,Q1,Feb,C0018,Male,36-45,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,37,653,7969,7236,Mumbai,Maharashtra,West,2,No,5,Positive
+O00368,2016-08-22,2016,Q3,Aug,C0019,Female,26-35,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,58,230,2854,2496,Delhi,Delhi,North,7,No,5,Positive
+O00369,2014-07-08,2014,Q3,Jul,C0020,Male,36-45,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,159,215,4883,4316,Chennai,Tamil Nadu,South,4,No,4,Positive
+O00370,2012-05-30,2012,Q2,May,C0021,Female,45+,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,126,610,1587,1286,Kolkata,West Bengal,East,5,Yes,2,Negative
+O00371,2018-10-12,2018,Q4,Oct,C0022,Female,26-35,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,191,239,6683,5930,Hyderabad,Telangana,South,6,Yes,2,Negative
+O00372,2015-06-07,2015,Q2,Jun,C0023,Female,45+,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,87,553,4313,4066,Bangalore,Karnataka,South,6,No,3,Neutral
+O00373,2015-10-02,2015,Q4,Oct,C0024,Male,45+,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,235,442,5909,5434,Kolkata,West Bengal,East,2,No,5,Positive
+O00374,2015-08-27,2015,Q3,Aug,C0025,Male,18-25,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,200,1203,5988,5345,Mumbai,Maharashtra,West,3,Yes,2,Negative
+O00375,2021-11-24,2021,Q4,Nov,C0026,Male,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,227,649,5940,5476,Bangalore,Karnataka,South,1,Yes,1,Negative
+O00376,2024-11-01,2024,Q4,Nov,C0027,Female,36-45,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,52,673,6210,5476,Pune,Maharashtra,West,5,Yes,2,Negative
+O00377,2020-07-22,2020,Q3,Jul,C0028,Male,26-35,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,102,1526,1798,1113,Bangalore,Karnataka,South,7,No,1,Negative
+O00378,2023-02-04,2023,Q1,Feb,C0029,Male,26-35,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,129,1073,7135,6921,Bangalore,Karnataka,South,4,No,2,Negative
+O00379,2019-06-12,2019,Q2,Jun,C0030,Male,26-35,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,250,510,5042,4866,Delhi,Delhi,North,4,No,3,Neutral
+O00380,2019-07-15,2019,Q3,Jul,C0031,Male,18-25,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,79,641,5524,5195,Chennai,Tamil Nadu,South,6,No,3,Neutral
+O00381,2012-07-08,2012,Q3,Jul,C0032,Male,45+,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,155,1274,3855,3511,Mumbai,Maharashtra,West,7,Yes,1,Negative
+O00382,2018-07-20,2018,Q3,Jul,C0033,Female,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,190,625,6014,5247,Pune,Maharashtra,West,6,No,4,Positive
+O00383,2024-05-27,2024,Q2,May,C0034,Female,45+,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,236,351,7592,7166,Chennai,Tamil Nadu,South,7,Yes,1,Negative
+O00384,2015-07-28,2015,Q3,Jul,C0035,Female,36-45,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,221,728,2187,1780,Mumbai,Maharashtra,West,2,Yes,1,Negative
+O00385,2016-09-29,2016,Q3,Sep,C0036,Female,36-45,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,7,556,1300,447,Kolkata,West Bengal,East,5,Yes,5,Positive
+O00386,2015-03-09,2015,Q1,Mar,C0037,Female,18-25,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,74,397,3586,3453,Kolkata,West Bengal,East,2,No,2,Negative
+O00387,2018-02-09,2018,Q1,Feb,C0038,Female,36-45,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,161,1044,3998,3570,Mumbai,Maharashtra,West,1,No,5,Positive
+O00388,2017-10-05,2017,Q4,Oct,C0039,Male,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,219,302,7702,6992,Bangalore,Karnataka,South,2,No,5,Positive
+O00389,2012-01-17,2012,Q1,Jan,C0040,Female,36-45,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,194,947,6099,5948,Mumbai,Maharashtra,West,7,No,3,Neutral
+O00390,2014-08-13,2014,Q3,Aug,C0041,Female,36-45,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,241,524,1821,1523,Kolkata,West Bengal,East,1,No,2,Negative
+O00391,2025-11-26,2025,Q4,Nov,C0042,Female,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,24,152,1284,575,Pune,Maharashtra,West,1,No,5,Positive
+O00392,2020-06-10,2020,Q2,Jun,C0043,Female,26-35,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,116,268,6014,5144,Hyderabad,Telangana,South,6,No,2,Negative
+O00393,2019-01-13,2019,Q1,Jan,C0044,Male,45+,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,153,580,7736,7374,Delhi,Delhi,North,3,Yes,3,Neutral
+O00394,2017-09-22,2017,Q3,Sep,C0045,Male,45+,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,189,1168,3490,2972,Chennai,Tamil Nadu,South,6,Yes,3,Neutral
+O00395,2012-05-30,2012,Q2,May,C0046,Male,26-35,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,131,1312,1374,611,Kolkata,West Bengal,East,5,No,3,Neutral
+O00396,2021-08-18,2021,Q3,Aug,C0047,Female,26-35,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,120,1461,2209,1338,Pune,Maharashtra,West,3,No,3,Neutral
+O00397,2024-12-13,2024,Q4,Dec,C0048,Female,18-25,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,145,266,4458,4188,Pune,Maharashtra,West,4,Yes,1,Negative
+O00398,2024-08-04,2024,Q3,Aug,C0049,Male,45+,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,20,1347,7308,7006,Mumbai,Maharashtra,West,1,No,1,Negative
+O00399,2013-11-16,2013,Q4,Nov,C0050,Female,45+,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,110,615,6501,5959,Bangalore,Karnataka,South,7,Yes,4,Positive
+O00400,2016-05-14,2016,Q2,May,C0051,Male,36-45,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,224,1397,4140,3352,Delhi,Delhi,North,4,No,1,Negative
+O00401,2014-02-02,2014,Q1,Feb,C0052,Male,36-45,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,228,564,2551,1858,Hyderabad,Telangana,South,3,Yes,5,Positive
+O00402,2023-12-17,2023,Q4,Dec,C0053,Male,18-25,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,135,1424,7867,7196,Mumbai,Maharashtra,West,7,No,3,Neutral
+O00403,2012-03-12,2012,Q1,Mar,C0054,Female,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,111,666,6220,6042,Bangalore,Karnataka,South,2,Yes,3,Neutral
+O00404,2018-10-15,2018,Q4,Oct,C0055,Female,26-35,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,186,470,2742,2331,Pune,Maharashtra,West,4,No,5,Positive
+O00405,2014-10-31,2014,Q4,Oct,C0056,Female,18-25,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,248,1171,5997,5573,Delhi,Delhi,North,2,Yes,2,Negative
+O00406,2021-11-20,2021,Q4,Nov,C0057,Female,36-45,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,200,272,6882,6427,Pune,Maharashtra,West,5,No,1,Negative
+O00407,2012-08-22,2012,Q3,Aug,C0058,Female,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,19,836,3632,2931,Delhi,Delhi,North,7,No,4,Positive
+O00408,2014-05-31,2014,Q2,May,C0059,Female,26-35,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,77,458,3634,3459,Bangalore,Karnataka,South,5,Yes,5,Positive
+O00409,2025-06-01,2025,Q2,Jun,C0060,Female,36-45,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,153,589,7907,7044,Mumbai,Maharashtra,West,4,Yes,3,Neutral
+O00410,2015-09-04,2015,Q3,Sep,C0061,Male,36-45,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,117,1034,3026,2648,Chennai,Tamil Nadu,South,2,No,4,Positive
+O00411,2014-11-06,2014,Q4,Nov,C0062,Female,26-35,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,104,185,7768,7178,Delhi,Delhi,North,7,No,3,Neutral
+O00412,2022-05-10,2022,Q2,May,C0063,Female,36-45,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,141,567,5338,4844,Kolkata,West Bengal,East,4,Yes,5,Positive
+O00413,2024-10-02,2024,Q4,Oct,C0064,Female,18-25,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,61,1321,4700,4425,Hyderabad,Telangana,South,6,Yes,4,Positive
+O00414,2014-12-27,2014,Q4,Dec,C0065,Male,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,183,929,1413,878,Hyderabad,Telangana,South,4,No,2,Negative
+O00415,2020-10-05,2020,Q4,Oct,C0066,Male,18-25,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,164,1142,3189,2982,Chennai,Tamil Nadu,South,1,No,4,Positive
+O00416,2015-10-06,2015,Q4,Oct,C0067,Female,45+,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,237,1012,3430,3088,Bangalore,Karnataka,South,3,No,4,Positive
+O00417,2013-11-10,2013,Q4,Nov,C0068,Male,26-35,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,211,505,6765,6403,Mumbai,Maharashtra,West,7,No,3,Neutral
+O00418,2014-12-15,2014,Q4,Dec,C0069,Male,45+,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,184,576,2572,2414,Bangalore,Karnataka,South,5,No,4,Positive
+O00419,2012-12-25,2012,Q4,Dec,C0070,Female,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,152,464,5591,4726,Mumbai,Maharashtra,West,1,Yes,3,Neutral
+O00420,2015-06-30,2015,Q2,Jun,C0071,Female,45+,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,149,205,6203,5453,Hyderabad,Telangana,South,6,Yes,5,Positive
+O00421,2024-09-23,2024,Q3,Sep,C0072,Female,36-45,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,101,1114,2709,2433,Pune,Maharashtra,West,6,No,3,Neutral
+O00422,2020-04-21,2020,Q2,Apr,C0073,Female,45+,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,84,1585,6094,5457,Pune,Maharashtra,West,4,Yes,2,Negative
+O00423,2019-08-14,2019,Q3,Aug,C0074,Male,26-35,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,10,770,7307,6437,Pune,Maharashtra,West,4,Yes,1,Negative
+O00424,2022-02-04,2022,Q1,Feb,C0075,Male,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,145,467,1012,885,Delhi,Delhi,North,1,No,4,Positive
+O00425,2014-08-06,2014,Q3,Aug,C0076,Male,26-35,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,31,639,4586,3998,Delhi,Delhi,North,1,No,2,Negative
+O00426,2023-10-25,2023,Q4,Oct,C0077,Female,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,129,789,3715,3174,Kolkata,West Bengal,East,5,No,3,Neutral
+O00427,2017-01-19,2017,Q1,Jan,C0078,Male,45+,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,30,305,2360,2084,Chennai,Tamil Nadu,South,6,Yes,4,Positive
+O00428,2017-06-30,2017,Q2,Jun,C0079,Female,26-35,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,249,1017,5096,4959,Mumbai,Maharashtra,West,5,No,1,Negative
+O00429,2016-07-06,2016,Q3,Jul,C0080,Male,26-35,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,197,515,5674,5251,Delhi,Delhi,North,4,Yes,4,Positive
+O00430,2016-04-19,2016,Q2,Apr,C0081,Male,18-25,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,87,1111,1431,1152,Hyderabad,Telangana,South,5,Yes,1,Negative
+O00431,2022-11-06,2022,Q4,Nov,C0082,Female,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,62,1405,2178,1412,Bangalore,Karnataka,South,3,Yes,4,Positive
+O00432,2024-03-25,2024,Q1,Mar,C0083,Male,36-45,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,220,866,7555,6893,Hyderabad,Telangana,South,2,No,2,Negative
+O00433,2015-09-25,2015,Q3,Sep,C0084,Female,26-35,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,66,769,7978,7744,Hyderabad,Telangana,South,1,Yes,2,Negative
+O00434,2023-08-28,2023,Q3,Aug,C0085,Male,36-45,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,181,638,5714,5573,Mumbai,Maharashtra,West,7,Yes,1,Negative
+O00435,2016-03-29,2016,Q1,Mar,C0086,Female,36-45,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,199,700,3071,2969,Hyderabad,Telangana,South,7,No,3,Neutral
+O00436,2014-10-26,2014,Q4,Oct,C0087,Female,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,66,907,1654,956,Chennai,Tamil Nadu,South,6,No,2,Negative
+O00437,2017-03-23,2017,Q1,Mar,C0088,Male,18-25,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,80,288,1799,1398,Mumbai,Maharashtra,West,7,Yes,2,Negative
+O00438,2016-09-28,2016,Q3,Sep,C0089,Female,36-45,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,61,948,6566,6276,Delhi,Delhi,North,6,No,2,Negative
+O00439,2016-02-19,2016,Q1,Feb,C0090,Female,45+,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,68,549,6666,5775,Delhi,Delhi,North,6,No,4,Positive
+O00440,2019-09-04,2019,Q3,Sep,C0091,Female,18-25,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,30,921,1041,354,Hyderabad,Telangana,South,7,No,1,Negative
+O00441,2022-02-19,2022,Q1,Feb,C0092,Female,18-25,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,98,260,5194,4979,Chennai,Tamil Nadu,South,7,Yes,2,Negative
+O00442,2021-10-16,2021,Q4,Oct,C0093,Male,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,135,282,3715,3063,Bangalore,Karnataka,South,1,No,2,Negative
+O00443,2015-09-06,2015,Q3,Sep,C0094,Male,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,227,261,2318,2138,Bangalore,Karnataka,South,6,Yes,4,Positive
+O00444,2021-06-22,2021,Q2,Jun,C0095,Female,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,154,1017,5903,5251,Pune,Maharashtra,West,3,Yes,3,Neutral
+O00445,2024-03-15,2024,Q1,Mar,C0096,Female,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,144,331,1026,302,Bangalore,Karnataka,South,4,No,1,Negative
+O00446,2013-02-28,2013,Q1,Feb,C0097,Female,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,84,395,3248,2425,Bangalore,Karnataka,South,4,Yes,2,Negative
+O00447,2021-02-13,2021,Q1,Feb,C0098,Male,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,66,152,7950,7116,Hyderabad,Telangana,South,1,No,2,Negative
+O00448,2023-05-02,2023,Q2,May,C0099,Male,45+,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,179,400,3606,2826,Bangalore,Karnataka,South,4,Yes,3,Neutral
+O00449,2015-12-27,2015,Q4,Dec,C0100,Male,26-35,New,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,112,177,5463,4676,Bangalore,Karnataka,South,6,Yes,1,Negative
+O00450,2020-10-31,2020,Q4,Oct,C0101,Male,18-25,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,192,209,7749,6900,Pune,Maharashtra,West,7,No,2,Negative
+O00451,2024-06-19,2024,Q2,Jun,C0102,Female,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,217,1271,1754,922,Kolkata,West Bengal,East,2,No,2,Negative
+O00452,2023-11-05,2023,Q4,Nov,C0103,Male,45+,New,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,135,318,4632,4301,Kolkata,West Bengal,East,1,Yes,3,Neutral
+O00453,2021-03-06,2021,Q1,Mar,C0104,Female,18-25,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,66,201,3588,3273,Kolkata,West Bengal,East,6,Yes,5,Positive
+O00454,2015-08-15,2015,Q3,Aug,C0105,Female,36-45,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,89,220,3914,3053,Bangalore,Karnataka,South,3,Yes,3,Neutral
+O00455,2013-09-01,2013,Q3,Sep,C0106,Female,45+,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,176,1388,2738,2510,Bangalore,Karnataka,South,6,Yes,5,Positive
+O00456,2012-12-28,2012,Q4,Dec,C0107,Male,26-35,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,40,259,3059,2374,Delhi,Delhi,North,4,No,3,Neutral
+O00457,2018-08-20,2018,Q3,Aug,C0108,Male,18-25,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,118,143,2237,2027,Pune,Maharashtra,West,3,Yes,5,Positive
+O00458,2025-08-22,2025,Q3,Aug,C0109,Male,45+,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,128,1262,7858,7229,Bangalore,Karnataka,South,6,Yes,4,Positive
+O00459,2017-03-14,2017,Q1,Mar,C0110,Female,18-25,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,43,406,6784,6200,Kolkata,West Bengal,East,3,Yes,2,Negative
+O00460,2015-08-24,2015,Q3,Aug,C0111,Female,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,110,271,3307,2872,Chennai,Tamil Nadu,South,1,No,1,Negative
+O00461,2012-09-22,2012,Q3,Sep,C0112,Female,26-35,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,137,1693,2889,2735,Pune,Maharashtra,West,4,No,3,Neutral
+O00462,2019-04-29,2019,Q2,Apr,C0113,Female,45+,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,175,340,7443,7165,Chennai,Tamil Nadu,South,7,No,2,Negative
+O00463,2024-10-01,2024,Q4,Oct,C0114,Male,26-35,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,47,186,5496,5001,Delhi,Delhi,North,2,Yes,1,Negative
+O00464,2019-05-17,2019,Q2,May,C0115,Female,18-25,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,30,541,1917,1509,Bangalore,Karnataka,South,2,No,5,Positive
+O00465,2021-01-27,2021,Q1,Jan,C0116,Male,26-35,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,72,277,5491,5351,Pune,Maharashtra,West,5,No,3,Neutral
+O00466,2012-04-21,2012,Q2,Apr,C0117,Female,45+,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,207,874,7686,7245,Chennai,Tamil Nadu,South,3,Yes,4,Positive
+O00467,2022-12-27,2022,Q4,Dec,C0118,Female,18-25,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,56,1281,3326,3224,Pune,Maharashtra,West,7,No,2,Negative
+O00468,2016-01-20,2016,Q1,Jan,C0119,Male,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,201,1172,1522,1192,Kolkata,West Bengal,East,5,No,3,Neutral
+O00469,2014-05-01,2014,Q2,May,C0120,Female,36-45,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,168,285,1061,488,Kolkata,West Bengal,East,1,Yes,1,Negative
+O00470,2022-08-07,2022,Q3,Aug,C0121,Male,26-35,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,131,808,4951,4476,Delhi,Delhi,North,2,No,2,Negative
+O00471,2024-06-11,2024,Q2,Jun,C0122,Female,45+,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,77,270,7755,7261,Delhi,Delhi,North,1,No,3,Neutral
+O00472,2023-05-23,2023,Q2,May,C0123,Female,26-35,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,95,520,4582,4142,Bangalore,Karnataka,South,4,No,3,Neutral
+O00473,2021-05-14,2021,Q2,May,C0124,Male,18-25,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,146,384,6188,5801,Pune,Maharashtra,West,1,Yes,1,Negative
+O00474,2023-05-26,2023,Q2,May,C0125,Female,45+,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,135,575,6727,6483,Delhi,Delhi,North,5,No,1,Negative
+O00475,2016-02-20,2016,Q1,Feb,C0126,Male,18-25,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,70,1048,7972,7166,Kolkata,West Bengal,East,1,No,2,Negative
+O00476,2014-08-16,2014,Q3,Aug,C0127,Male,45+,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,218,752,7513,7063,Kolkata,West Bengal,East,2,No,4,Positive
+O00477,2023-11-01,2023,Q4,Nov,C0128,Male,45+,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,231,358,6619,6141,Mumbai,Maharashtra,West,4,No,3,Neutral
+O00478,2013-01-28,2013,Q1,Jan,C0129,Female,18-25,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,24,707,4714,4387,Kolkata,West Bengal,East,3,No,1,Negative
+O00479,2017-10-27,2017,Q4,Oct,C0130,Female,26-35,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,208,270,3388,3022,Pune,Maharashtra,West,3,Yes,5,Positive
+O00480,2015-07-31,2015,Q3,Jul,C0131,Female,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,40,776,2920,2378,Delhi,Delhi,North,2,No,3,Neutral
+O00481,2017-05-05,2017,Q2,May,C0132,Male,36-45,New,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,173,210,3761,3506,Delhi,Delhi,North,1,No,4,Positive
+O00482,2021-03-28,2021,Q1,Mar,C0133,Female,45+,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,100,1170,2242,1468,Kolkata,West Bengal,East,3,No,1,Negative
+O00483,2015-12-04,2015,Q4,Dec,C0134,Male,18-25,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,128,722,2061,1800,Hyderabad,Telangana,South,3,Yes,4,Positive
+O00484,2013-09-24,2013,Q3,Sep,C0135,Female,45+,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,249,586,3474,3290,Mumbai,Maharashtra,West,2,No,2,Negative
+O00485,2017-05-06,2017,Q2,May,C0136,Female,18-25,New,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,208,683,6933,6127,Chennai,Tamil Nadu,South,6,Yes,3,Neutral
+O00486,2025-07-28,2025,Q3,Jul,C0137,Male,36-45,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,65,999,4467,3765,Chennai,Tamil Nadu,South,1,Yes,5,Positive
+O00487,2018-09-18,2018,Q3,Sep,C0138,Male,26-35,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,135,973,4645,4249,Delhi,Delhi,North,2,No,2,Negative
+O00488,2016-09-19,2016,Q3,Sep,C0139,Male,26-35,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,43,1757,7721,7226,Mumbai,Maharashtra,West,6,No,2,Negative
+O00489,2022-03-22,2022,Q1,Mar,C0140,Male,18-25,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,42,806,7988,7836,Delhi,Delhi,North,7,Yes,4,Positive
+O00490,2024-09-02,2024,Q3,Sep,C0141,Female,36-45,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,222,1089,6257,5846,Delhi,Delhi,North,4,No,4,Positive
+O00491,2021-02-01,2021,Q1,Feb,C0142,Male,26-35,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,26,317,1926,1554,Kolkata,West Bengal,East,3,No,3,Neutral
+O00492,2018-07-20,2018,Q3,Jul,C0143,Female,36-45,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,241,213,4906,4736,Delhi,Delhi,North,3,Yes,4,Positive
+O00493,2013-08-09,2013,Q3,Aug,C0144,Male,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,121,428,2917,2413,Hyderabad,Telangana,South,7,Yes,1,Negative
+O00494,2017-09-22,2017,Q3,Sep,C0145,Male,36-45,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,47,579,6908,6691,Kolkata,West Bengal,East,2,Yes,2,Negative
+O00495,2023-04-18,2023,Q2,Apr,C0146,Female,18-25,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,117,796,5613,5356,Mumbai,Maharashtra,West,7,Yes,4,Positive
+O00496,2016-03-26,2016,Q1,Mar,C0147,Male,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,100,272,5065,4263,Kolkata,West Bengal,East,6,No,4,Positive
+O00497,2014-09-13,2014,Q3,Sep,C0148,Female,26-35,New,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,6,1053,4739,4618,Kolkata,West Bengal,East,2,Yes,4,Positive
+O00498,2012-05-28,2012,Q2,May,C0149,Female,36-45,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,97,329,1272,948,Bangalore,Karnataka,South,2,No,2,Negative
+O00499,2017-03-30,2017,Q1,Mar,C0150,Male,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,45,1206,7016,6521,Chennai,Tamil Nadu,South,2,No,4,Positive
+O00500,2014-03-30,2014,Q1,Mar,C0151,Female,26-35,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,59,251,4262,3731,Delhi,Delhi,North,2,No,2,Negative
+O00501,2012-01-17,2012,Q1,Jan,C0152,Female,26-35,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,204,1204,3742,2957,Mumbai,Maharashtra,West,7,Yes,2,Negative
+O00502,2021-08-03,2021,Q3,Aug,C0153,Female,36-45,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,11,586,6642,5955,Mumbai,Maharashtra,West,6,Yes,5,Positive
+O00503,2018-06-18,2018,Q2,Jun,C0154,Female,36-45,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,199,294,7328,6824,Pune,Maharashtra,West,5,Yes,5,Positive
+O00504,2022-05-27,2022,Q2,May,C0155,Female,36-45,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,231,718,1645,1004,Hyderabad,Telangana,South,7,No,2,Negative
+O00505,2020-09-12,2020,Q3,Sep,C0156,Male,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,185,401,4021,3428,Kolkata,West Bengal,East,7,No,5,Positive
+O00506,2018-09-27,2018,Q3,Sep,C0157,Female,45+,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,207,135,2767,2466,Mumbai,Maharashtra,West,6,No,4,Positive
+O00507,2016-12-27,2016,Q4,Dec,C0158,Male,45+,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,148,580,3435,2672,Pune,Maharashtra,West,2,No,5,Positive
+O00508,2021-04-17,2021,Q2,Apr,C0159,Male,18-25,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,33,1107,2899,2660,Pune,Maharashtra,West,1,Yes,2,Negative
+O00509,2025-08-04,2025,Q3,Aug,C0160,Female,45+,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,142,615,2114,1728,Bangalore,Karnataka,South,7,No,3,Neutral
+O00510,2013-12-28,2013,Q4,Dec,C0161,Male,18-25,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,32,314,6629,6340,Chennai,Tamil Nadu,South,5,No,5,Positive
+O00511,2022-11-27,2022,Q4,Nov,C0162,Male,45+,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,28,191,5716,5351,Kolkata,West Bengal,East,2,No,3,Neutral
+O00512,2019-02-19,2019,Q1,Feb,C0163,Male,36-45,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,161,1175,7320,7220,Pune,Maharashtra,West,1,Yes,3,Neutral
+O00513,2018-08-01,2018,Q3,Aug,C0164,Male,45+,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,125,242,3708,3282,Mumbai,Maharashtra,West,5,No,3,Neutral
+O00514,2016-05-07,2016,Q2,May,C0165,Male,36-45,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,61,954,7003,6491,Kolkata,West Bengal,East,5,No,1,Negative
+O00515,2012-10-14,2012,Q4,Oct,C0166,Male,36-45,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,146,591,5610,5478,Pune,Maharashtra,West,2,Yes,2,Negative
+O00516,2014-02-16,2014,Q1,Feb,C0167,Female,45+,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,156,213,4545,3845,Chennai,Tamil Nadu,South,5,No,3,Neutral
+O00517,2013-10-27,2013,Q4,Oct,C0168,Male,45+,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,198,278,5145,4268,Hyderabad,Telangana,South,4,Yes,2,Negative
+O00518,2017-09-30,2017,Q3,Sep,C0169,Male,45+,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,2,1366,7729,6901,Chennai,Tamil Nadu,South,6,No,5,Positive
+O00519,2017-09-27,2017,Q3,Sep,C0170,Male,18-25,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,221,381,5184,4773,Hyderabad,Telangana,South,3,Yes,4,Positive
+O00520,2016-06-13,2016,Q2,Jun,C0171,Male,26-35,New,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,233,810,1786,1533,Mumbai,Maharashtra,West,6,Yes,3,Neutral
+O00521,2014-06-14,2014,Q2,Jun,C0172,Male,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,163,302,5119,4290,Chennai,Tamil Nadu,South,7,Yes,5,Positive
+O00522,2016-02-09,2016,Q1,Feb,C0173,Female,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,150,232,6862,6496,Pune,Maharashtra,West,4,Yes,2,Negative
+O00523,2015-09-16,2015,Q3,Sep,C0174,Male,36-45,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,163,446,2298,1746,Hyderabad,Telangana,South,7,No,3,Neutral
+O00524,2014-12-31,2014,Q4,Dec,C0175,Male,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,144,318,7014,6290,Delhi,Delhi,North,6,No,5,Positive
+O00525,2017-06-02,2017,Q2,Jun,C0176,Male,18-25,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,100,528,1764,1273,Mumbai,Maharashtra,West,6,Yes,2,Negative
+O00526,2012-12-18,2012,Q4,Dec,C0177,Female,26-35,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,146,498,4079,3957,Hyderabad,Telangana,South,4,Yes,3,Neutral
+O00527,2015-04-09,2015,Q2,Apr,C0178,Male,45+,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,165,763,1849,1281,Hyderabad,Telangana,South,4,No,1,Negative
+O00528,2016-11-23,2016,Q4,Nov,C0179,Female,45+,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,53,353,7553,7132,Delhi,Delhi,North,6,No,4,Positive
+O00529,2022-06-22,2022,Q2,Jun,C0180,Male,36-45,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,69,989,3680,3251,Hyderabad,Telangana,South,5,No,4,Positive
+O00530,2013-05-10,2013,Q2,May,C0181,Male,18-25,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,21,902,3231,2659,Pune,Maharashtra,West,3,Yes,4,Positive
+O00531,2019-01-05,2019,Q1,Jan,C0182,Male,18-25,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,228,657,2810,2223,Kolkata,West Bengal,East,5,No,3,Neutral
+O00532,2012-08-10,2012,Q3,Aug,C0183,Female,45+,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,236,594,3451,2598,Kolkata,West Bengal,East,4,No,3,Neutral
+O00533,2021-02-13,2021,Q1,Feb,C0184,Female,45+,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,229,315,7514,7021,Hyderabad,Telangana,South,4,Yes,4,Positive
+O00534,2014-05-16,2014,Q2,May,C0185,Male,36-45,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,249,521,4853,4182,Bangalore,Karnataka,South,7,Yes,1,Negative
+O00535,2017-09-29,2017,Q3,Sep,C0186,Female,36-45,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,91,134,6218,6100,Bangalore,Karnataka,South,4,Yes,4,Positive
+O00536,2015-03-12,2015,Q1,Mar,C0187,Male,45+,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,61,922,2247,1952,Bangalore,Karnataka,South,2,Yes,4,Positive
+O00537,2018-01-22,2018,Q1,Jan,C0188,Female,18-25,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,222,605,1885,1491,Mumbai,Maharashtra,West,7,No,4,Positive
+O00538,2025-12-01,2025,Q4,Dec,C0189,Male,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,241,399,1999,1612,Mumbai,Maharashtra,West,1,Yes,5,Positive
+O00539,2025-09-21,2025,Q3,Sep,C0190,Female,45+,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,123,621,6808,6209,Mumbai,Maharashtra,West,4,No,1,Negative
+O00540,2016-10-07,2016,Q4,Oct,C0191,Female,45+,New,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,131,645,3351,3097,Hyderabad,Telangana,South,7,Yes,3,Neutral
+O00541,2022-10-25,2022,Q4,Oct,C0192,Female,26-35,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,188,261,7205,6399,Kolkata,West Bengal,East,6,No,1,Negative
+O00542,2026-01-05,2026,Q1,Jan,C0193,Male,45+,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,159,238,3811,3294,Kolkata,West Bengal,East,3,No,2,Negative
+O00543,2018-11-24,2018,Q4,Nov,C0194,Male,45+,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,216,657,4129,3927,Kolkata,West Bengal,East,2,No,4,Positive
+O00544,2012-06-18,2012,Q2,Jun,C0195,Male,45+,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,107,791,2456,1789,Bangalore,Karnataka,South,4,No,5,Positive
+O00545,2017-05-08,2017,Q2,May,C0196,Female,18-25,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,12,587,6222,5687,Hyderabad,Telangana,South,6,Yes,3,Neutral
+O00546,2013-12-12,2013,Q4,Dec,C0197,Male,45+,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,65,443,7456,6807,Delhi,Delhi,North,4,No,1,Negative
+O00547,2015-09-06,2015,Q3,Sep,C0198,Male,36-45,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,162,424,6225,5920,Pune,Maharashtra,West,4,Yes,3,Neutral
+O00548,2014-04-22,2014,Q2,Apr,C0199,Female,26-35,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,59,617,2220,1418,Bangalore,Karnataka,South,7,No,3,Neutral
+O00549,2020-01-25,2020,Q1,Jan,C0200,Male,18-25,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,31,822,3931,3043,Mumbai,Maharashtra,West,2,Yes,5,Positive
+O00550,2013-06-22,2013,Q2,Jun,C0201,Female,26-35,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,190,323,2859,2235,Mumbai,Maharashtra,West,5,Yes,4,Positive
+O00551,2019-02-21,2019,Q1,Feb,C0202,Female,36-45,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,158,947,2887,2103,Mumbai,Maharashtra,West,3,Yes,3,Neutral
+O00552,2020-07-06,2020,Q3,Jul,C0203,Male,36-45,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,205,942,5502,4803,Bangalore,Karnataka,South,5,No,1,Negative
+O00553,2021-03-26,2021,Q1,Mar,C0204,Male,26-35,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,164,376,6621,6182,Chennai,Tamil Nadu,South,1,Yes,4,Positive
+O00554,2016-08-30,2016,Q3,Aug,C0205,Female,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,4,890,2094,1337,Hyderabad,Telangana,South,2,Yes,1,Negative
+O00555,2015-02-07,2015,Q1,Feb,C0206,Female,18-25,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,121,1186,6355,5621,Hyderabad,Telangana,South,1,Yes,4,Positive
+O00556,2014-05-06,2014,Q2,May,C0207,Female,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,179,1187,6287,5413,Bangalore,Karnataka,South,5,Yes,3,Neutral
+O00557,2024-08-04,2024,Q3,Aug,C0208,Male,36-45,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,25,984,5368,4521,Chennai,Tamil Nadu,South,3,Yes,3,Neutral
+O00558,2019-10-22,2019,Q4,Oct,C0209,Male,45+,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,125,444,7966,7740,Mumbai,Maharashtra,West,4,Yes,5,Positive
+O00559,2023-03-27,2023,Q1,Mar,C0210,Female,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,27,292,5865,5460,Mumbai,Maharashtra,West,5,Yes,2,Negative
+O00560,2023-12-01,2023,Q4,Dec,C0211,Female,45+,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,45,1218,1500,981,Delhi,Delhi,North,2,Yes,3,Neutral
+O00561,2023-07-19,2023,Q3,Jul,C0212,Male,36-45,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,199,248,7029,6862,Mumbai,Maharashtra,West,2,No,5,Positive
+O00562,2014-04-17,2014,Q2,Apr,C0213,Male,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,201,575,7209,6655,Delhi,Delhi,North,2,No,2,Negative
+O00563,2022-04-01,2022,Q2,Apr,C0214,Female,26-35,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,97,1313,3387,2982,Mumbai,Maharashtra,West,3,No,3,Neutral
+O00564,2020-09-26,2020,Q3,Sep,C0215,Female,45+,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,12,152,6910,6264,Hyderabad,Telangana,South,5,No,1,Negative
+O00565,2024-02-28,2024,Q1,Feb,C0216,Male,26-35,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,32,390,3055,2510,Chennai,Tamil Nadu,South,4,Yes,4,Positive
+O00566,2014-07-23,2014,Q3,Jul,C0217,Female,36-45,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,21,1252,4352,4037,Mumbai,Maharashtra,West,2,No,2,Negative
+O00567,2014-10-19,2014,Q4,Oct,C0218,Female,45+,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,246,524,5569,5007,Hyderabad,Telangana,South,5,No,1,Negative
+O00568,2025-05-08,2025,Q2,May,C0219,Male,45+,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,151,589,3871,3490,Delhi,Delhi,North,6,Yes,5,Positive
+O00569,2012-08-27,2012,Q3,Aug,C0220,Male,45+,New,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,89,622,6505,6110,Kolkata,West Bengal,East,5,Yes,5,Positive
+O00570,2019-06-18,2019,Q2,Jun,C0221,Female,45+,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,215,1321,5070,4225,Kolkata,West Bengal,East,2,No,2,Negative
+O00571,2014-08-05,2014,Q3,Aug,C0222,Male,26-35,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,87,1398,5042,4444,Pune,Maharashtra,West,5,Yes,4,Positive
+O00572,2017-08-16,2017,Q3,Aug,C0223,Male,26-35,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,190,850,7398,6764,Mumbai,Maharashtra,West,5,No,1,Negative
+O00573,2020-09-14,2020,Q3,Sep,C0224,Male,45+,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,111,666,3783,3311,Pune,Maharashtra,West,2,No,2,Negative
+O00574,2022-02-18,2022,Q1,Feb,C0225,Female,26-35,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,7,570,7047,6238,Pune,Maharashtra,West,1,No,3,Neutral
+O00575,2023-08-15,2023,Q3,Aug,C0226,Female,36-45,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,87,1052,4729,4272,Kolkata,West Bengal,East,6,Yes,3,Neutral
+O00576,2021-05-21,2021,Q2,May,C0227,Female,18-25,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,224,946,5664,5394,Delhi,Delhi,North,7,Yes,5,Positive
+O00577,2025-06-09,2025,Q2,Jun,C0228,Male,18-25,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,25,279,6352,6029,Pune,Maharashtra,West,5,No,2,Negative
+O00578,2019-05-29,2019,Q2,May,C0229,Male,45+,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,142,223,4411,3858,Bangalore,Karnataka,South,6,Yes,2,Negative
+O00579,2025-04-03,2025,Q2,Apr,C0230,Male,36-45,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,166,456,4372,4225,Delhi,Delhi,North,6,Yes,2,Negative
+O00580,2024-12-15,2024,Q4,Dec,C0231,Male,45+,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,151,548,6872,6253,Bangalore,Karnataka,South,2,No,2,Negative
+O00581,2021-04-20,2021,Q2,Apr,C0232,Male,26-35,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,123,1122,2814,2628,Mumbai,Maharashtra,West,3,Yes,1,Negative
+O00582,2021-12-10,2021,Q4,Dec,C0233,Male,26-35,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,28,1380,7259,6394,Hyderabad,Telangana,South,6,No,1,Negative
+O00583,2024-06-30,2024,Q2,Jun,C0234,Male,18-25,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,215,776,6305,5853,Pune,Maharashtra,West,5,Yes,3,Neutral
+O00584,2024-03-31,2024,Q1,Mar,C0235,Male,36-45,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,86,770,7884,7518,Bangalore,Karnataka,South,1,Yes,5,Positive
+O00585,2025-05-14,2025,Q2,May,C0236,Male,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,149,722,5064,4651,Hyderabad,Telangana,South,2,Yes,1,Negative
+O00586,2018-08-11,2018,Q3,Aug,C0237,Male,36-45,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,59,728,7565,7460,Chennai,Tamil Nadu,South,5,Yes,1,Negative
+O00587,2021-02-26,2021,Q1,Feb,C0238,Male,18-25,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,40,227,7005,6742,Hyderabad,Telangana,South,3,No,2,Negative
+O00588,2013-04-08,2013,Q2,Apr,C0239,Male,36-45,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,191,907,4941,4205,Kolkata,West Bengal,East,1,Yes,2,Negative
+O00589,2023-07-22,2023,Q3,Jul,C0240,Female,45+,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,9,837,7838,7596,Pune,Maharashtra,West,4,No,3,Neutral
+O00590,2014-03-28,2014,Q1,Mar,C0241,Male,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,19,1139,3506,3244,Delhi,Delhi,North,7,No,1,Negative
+O00591,2013-06-30,2013,Q2,Jun,C0242,Male,26-35,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,133,799,7463,6643,Mumbai,Maharashtra,West,6,Yes,4,Positive
+O00592,2025-12-29,2025,Q4,Dec,C0243,Female,26-35,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,249,177,1089,252,Bangalore,Karnataka,South,4,Yes,4,Positive
+O00593,2025-05-23,2025,Q2,May,C0244,Male,36-45,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,110,447,2256,2141,Chennai,Tamil Nadu,South,4,Yes,1,Negative
+O00594,2022-01-05,2022,Q1,Jan,C0245,Female,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,177,847,6009,5348,Delhi,Delhi,North,2,Yes,5,Positive
+O00595,2018-01-02,2018,Q1,Jan,C0246,Male,45+,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,144,1437,6626,6020,Hyderabad,Telangana,South,7,No,4,Positive
+O00596,2021-01-07,2021,Q1,Jan,C0247,Male,18-25,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,60,554,1168,960,Kolkata,West Bengal,East,5,No,1,Negative
+O00597,2012-07-20,2012,Q3,Jul,C0248,Female,26-35,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,158,264,1190,539,Hyderabad,Telangana,South,1,No,3,Neutral
+O00598,2024-01-13,2024,Q1,Jan,C0249,Male,26-35,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,3,685,3300,2455,Pune,Maharashtra,West,5,No,4,Positive
+O00599,2019-10-03,2019,Q4,Oct,C0250,Male,26-35,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,178,548,4404,3615,Pune,Maharashtra,West,1,Yes,1,Negative
+O00600,2015-03-05,2015,Q1,Mar,C0251,Male,45+,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,178,641,2673,2010,Delhi,Delhi,North,2,No,1,Negative
+O00601,2017-07-11,2017,Q3,Jul,C0252,Male,18-25,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,111,1326,4056,3811,Delhi,Delhi,North,6,No,3,Neutral
+O00602,2019-02-19,2019,Q1,Feb,C0253,Male,18-25,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,85,271,5879,5137,Bangalore,Karnataka,South,2,No,3,Neutral
+O00603,2018-01-31,2018,Q1,Jan,C0254,Male,45+,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,103,1449,2227,1875,Chennai,Tamil Nadu,South,7,No,4,Positive
+O00604,2021-02-03,2021,Q1,Feb,C0255,Male,36-45,New,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,141,1042,5630,5038,Pune,Maharashtra,West,1,No,2,Negative
+O00605,2017-01-11,2017,Q1,Jan,C0256,Female,26-35,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,41,434,6598,6439,Mumbai,Maharashtra,West,6,Yes,4,Positive
+O00606,2022-06-21,2022,Q2,Jun,C0257,Female,45+,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,21,201,1349,583,Chennai,Tamil Nadu,South,2,No,2,Negative
+O00607,2017-11-18,2017,Q4,Nov,C0258,Female,45+,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,234,598,6537,5893,Pune,Maharashtra,West,2,No,3,Neutral
+O00608,2017-04-01,2017,Q2,Apr,C0259,Female,45+,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,100,1010,7465,6792,Pune,Maharashtra,West,2,Yes,1,Negative
+O00609,2012-12-14,2012,Q4,Dec,C0260,Female,36-45,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,203,1040,5470,4665,Delhi,Delhi,North,7,No,4,Positive
+O00610,2016-02-01,2016,Q1,Feb,C0261,Male,36-45,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,49,1026,4084,3347,Bangalore,Karnataka,South,3,Yes,3,Neutral
+O00611,2025-06-20,2025,Q2,Jun,C0262,Female,36-45,New,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,227,973,4792,3917,Delhi,Delhi,North,2,No,1,Negative
+O00612,2012-11-09,2012,Q4,Nov,C0263,Female,36-45,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,207,289,7117,6361,Pune,Maharashtra,West,2,No,4,Positive
+O00613,2017-03-18,2017,Q1,Mar,C0264,Female,36-45,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,217,543,1724,1393,Pune,Maharashtra,West,3,No,5,Positive
+O00614,2016-07-13,2016,Q3,Jul,C0265,Female,36-45,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,73,527,5431,5112,Chennai,Tamil Nadu,South,3,No,3,Neutral
+O00615,2013-05-22,2013,Q2,May,C0266,Male,26-35,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,113,346,5864,5341,Chennai,Tamil Nadu,South,5,No,1,Negative
+O00616,2023-03-19,2023,Q1,Mar,C0267,Female,45+,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,73,669,5568,4850,Kolkata,West Bengal,East,7,Yes,1,Negative
+O00617,2012-08-21,2012,Q3,Aug,C0268,Male,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,235,257,7772,7578,Pune,Maharashtra,West,6,Yes,1,Negative
+O00618,2015-10-05,2015,Q4,Oct,C0269,Female,26-35,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,65,1138,3470,2861,Hyderabad,Telangana,South,6,Yes,1,Negative
+O00619,2018-04-18,2018,Q2,Apr,C0270,Male,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,231,796,5628,5031,Delhi,Delhi,North,6,Yes,2,Negative
+O00620,2012-08-25,2012,Q3,Aug,C0271,Male,45+,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,57,874,6623,6045,Bangalore,Karnataka,South,3,No,4,Positive
+O00621,2015-04-02,2015,Q2,Apr,C0272,Female,18-25,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,21,187,1305,1119,Delhi,Delhi,North,6,No,4,Positive
+O00622,2012-06-26,2012,Q2,Jun,C0273,Female,36-45,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,202,395,2929,2253,Delhi,Delhi,North,2,No,3,Neutral
+O00623,2015-12-04,2015,Q4,Dec,C0274,Female,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,47,328,1046,873,Chennai,Tamil Nadu,South,4,Yes,1,Negative
+O00624,2022-04-09,2022,Q2,Apr,C0275,Female,26-35,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,217,697,3758,3428,Bangalore,Karnataka,South,1,No,4,Positive
+O00625,2019-04-30,2019,Q2,Apr,C0276,Female,36-45,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,128,298,5163,4678,Bangalore,Karnataka,South,1,Yes,1,Negative
+O00626,2021-07-19,2021,Q3,Jul,C0277,Male,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,82,294,7180,6807,Pune,Maharashtra,West,2,No,4,Positive
+O00627,2020-11-10,2020,Q4,Nov,C0278,Male,36-45,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,159,582,1289,1134,Kolkata,West Bengal,East,4,Yes,2,Negative
+O00628,2024-07-28,2024,Q3,Jul,C0279,Male,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,90,523,6361,5781,Hyderabad,Telangana,South,7,Yes,5,Positive
+O00629,2020-11-03,2020,Q4,Nov,C0280,Female,18-25,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,56,507,2969,2469,Bangalore,Karnataka,South,4,No,3,Neutral
+O00630,2018-05-03,2018,Q2,May,C0281,Male,26-35,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,171,1078,4768,4297,Mumbai,Maharashtra,West,6,Yes,2,Negative
+O00631,2023-09-04,2023,Q3,Sep,C0282,Female,26-35,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,79,570,7372,6871,Chennai,Tamil Nadu,South,7,Yes,5,Positive
+O00632,2013-11-07,2013,Q4,Nov,C0283,Male,45+,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,46,840,4043,3401,Delhi,Delhi,North,6,No,4,Positive
+O00633,2024-12-01,2024,Q4,Dec,C0284,Male,45+,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,221,610,3574,2843,Delhi,Delhi,North,2,Yes,1,Negative
+O00634,2016-04-04,2016,Q2,Apr,C0285,Female,45+,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,62,260,2038,1416,Kolkata,West Bengal,East,3,No,3,Neutral
+O00635,2025-01-06,2025,Q1,Jan,C0286,Female,36-45,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,220,852,3330,3060,Bangalore,Karnataka,South,4,Yes,5,Positive
+O00636,2012-05-08,2012,Q2,May,C0287,Female,36-45,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,212,814,3717,3518,Bangalore,Karnataka,South,6,Yes,5,Positive
+O00637,2016-08-17,2016,Q3,Aug,C0288,Male,18-25,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,246,1153,1513,1187,Bangalore,Karnataka,South,6,Yes,1,Negative
+O00638,2020-05-14,2020,Q2,May,C0289,Male,18-25,New,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,77,240,6308,6038,Pune,Maharashtra,West,7,No,1,Negative
+O00639,2014-10-16,2014,Q4,Oct,C0290,Female,36-45,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,151,892,3621,3303,Chennai,Tamil Nadu,South,2,Yes,4,Positive
+O00640,2015-04-02,2015,Q2,Apr,C0291,Male,18-25,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,221,374,6246,6096,Kolkata,West Bengal,East,6,Yes,4,Positive
+O00641,2014-06-16,2014,Q2,Jun,C0292,Female,26-35,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,128,477,6495,5881,Hyderabad,Telangana,South,2,No,5,Positive
+O00642,2023-07-27,2023,Q3,Jul,C0293,Female,26-35,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,160,677,4085,3639,Mumbai,Maharashtra,West,5,Yes,3,Neutral
+O00643,2022-12-08,2022,Q4,Dec,C0294,Female,45+,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,123,678,2749,1853,Chennai,Tamil Nadu,South,4,No,1,Negative
+O00644,2017-07-01,2017,Q3,Jul,C0295,Male,18-25,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,6,207,2384,2004,Kolkata,West Bengal,East,7,Yes,5,Positive
+O00645,2024-02-13,2024,Q1,Feb,C0296,Male,45+,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,198,389,1056,781,Mumbai,Maharashtra,West,5,No,2,Negative
+O00646,2014-11-18,2014,Q4,Nov,C0297,Female,36-45,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,185,741,3977,3351,Bangalore,Karnataka,South,2,Yes,1,Negative
+O00647,2021-05-16,2021,Q2,May,C0298,Male,26-35,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,215,366,5412,5176,Delhi,Delhi,North,1,Yes,2,Negative
+O00648,2016-01-10,2016,Q1,Jan,C0299,Male,18-25,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,43,186,6483,5622,Delhi,Delhi,North,4,Yes,3,Neutral
+O00649,2019-05-09,2019,Q2,May,C0300,Female,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,104,1218,6343,6234,Chennai,Tamil Nadu,South,2,No,5,Positive
+O00650,2021-05-29,2021,Q2,May,C0301,Female,18-25,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,149,626,1924,1410,Hyderabad,Telangana,South,1,Yes,5,Positive
+O00651,2014-07-04,2014,Q3,Jul,C0302,Male,18-25,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,74,762,3560,3395,Mumbai,Maharashtra,West,7,Yes,2,Negative
+O00652,2015-10-06,2015,Q4,Oct,C0303,Female,36-45,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,144,1194,6984,6114,Bangalore,Karnataka,South,5,No,1,Negative
+O00653,2022-01-14,2022,Q1,Jan,C0304,Female,45+,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,173,838,4077,3347,Bangalore,Karnataka,South,4,Yes,5,Positive
+O00654,2022-04-10,2022,Q2,Apr,C0305,Male,45+,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,62,138,2700,1995,Pune,Maharashtra,West,5,No,1,Negative
+O00655,2021-03-24,2021,Q1,Mar,C0306,Female,36-45,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,154,420,7632,7487,Hyderabad,Telangana,South,2,Yes,4,Positive
+O00656,2022-01-17,2022,Q1,Jan,C0307,Female,45+,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,212,1536,3511,3172,Kolkata,West Bengal,East,7,No,2,Negative
+O00657,2015-05-14,2015,Q2,May,C0308,Male,26-35,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,189,159,5580,5184,Pune,Maharashtra,West,2,Yes,2,Negative
+O00658,2025-06-14,2025,Q2,Jun,C0309,Female,26-35,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,41,1746,5654,5522,Hyderabad,Telangana,South,5,Yes,1,Negative
+O00659,2025-04-23,2025,Q2,Apr,C0310,Male,18-25,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,233,1124,2139,1980,Pune,Maharashtra,West,1,No,1,Negative
+O00660,2020-03-24,2020,Q1,Mar,C0311,Male,36-45,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,54,427,4967,4614,Delhi,Delhi,North,7,Yes,3,Neutral
+O00661,2018-06-30,2018,Q2,Jun,C0312,Female,26-35,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,99,414,3230,2330,Hyderabad,Telangana,South,5,No,3,Neutral
+O00662,2024-08-02,2024,Q3,Aug,C0313,Female,18-25,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,9,347,5839,5094,Mumbai,Maharashtra,West,5,Yes,5,Positive
+O00663,2018-11-14,2018,Q4,Nov,C0314,Female,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,177,1132,4566,3986,Chennai,Tamil Nadu,South,1,No,2,Negative
+O00664,2023-03-04,2023,Q1,Mar,C0315,Female,26-35,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,91,593,5774,4910,Chennai,Tamil Nadu,South,5,Yes,3,Neutral
+O00665,2013-02-11,2013,Q1,Feb,C0316,Female,18-25,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,218,1111,6162,5611,Mumbai,Maharashtra,West,1,No,4,Positive
+O00666,2022-08-04,2022,Q3,Aug,C0317,Male,36-45,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,126,237,3699,2904,Mumbai,Maharashtra,West,2,Yes,2,Negative
+O00667,2022-11-22,2022,Q4,Nov,C0318,Male,36-45,New,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,82,204,4306,3535,Chennai,Tamil Nadu,South,3,Yes,2,Negative
+O00668,2012-09-05,2012,Q3,Sep,C0319,Female,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,225,403,1365,1240,Chennai,Tamil Nadu,South,7,Yes,5,Positive
+O00669,2016-06-01,2016,Q2,Jun,C0320,Male,36-45,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,159,196,2367,1819,Delhi,Delhi,North,1,No,2,Negative
+O00670,2014-01-16,2014,Q1,Jan,C0321,Male,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,112,735,4177,3759,Hyderabad,Telangana,South,2,No,3,Neutral
+O00671,2023-02-06,2023,Q1,Feb,C0322,Female,36-45,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,237,1388,7917,7072,Pune,Maharashtra,West,7,Yes,5,Positive
+O00672,2015-06-29,2015,Q2,Jun,C0323,Male,45+,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,225,876,3181,2879,Delhi,Delhi,North,4,Yes,4,Positive
+O00673,2018-06-15,2018,Q2,Jun,C0324,Male,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,13,536,1739,963,Kolkata,West Bengal,East,3,No,3,Neutral
+O00674,2016-10-26,2016,Q4,Oct,C0325,Male,18-25,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,168,308,2821,2229,Bangalore,Karnataka,South,7,Yes,2,Negative
+O00675,2018-05-26,2018,Q2,May,C0326,Female,36-45,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,152,649,2121,1372,Bangalore,Karnataka,South,2,Yes,1,Negative
+O00676,2013-01-12,2013,Q1,Jan,C0327,Male,18-25,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,19,311,1650,963,Delhi,Delhi,North,4,No,3,Neutral
+O00677,2019-02-08,2019,Q1,Feb,C0328,Male,26-35,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,24,562,1139,383,Mumbai,Maharashtra,West,7,Yes,2,Negative
+O00678,2024-01-12,2024,Q1,Jan,C0329,Female,18-25,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,199,1287,5412,4571,Bangalore,Karnataka,South,2,No,4,Positive
+O00679,2018-02-05,2018,Q1,Feb,C0330,Female,45+,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,129,642,3843,3327,Delhi,Delhi,North,4,Yes,5,Positive
+O00680,2014-12-30,2014,Q4,Dec,C0331,Male,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,28,357,6282,5715,Mumbai,Maharashtra,West,1,Yes,4,Positive
+O00681,2024-03-18,2024,Q1,Mar,C0332,Female,36-45,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,6,212,3380,2617,Bangalore,Karnataka,South,4,No,5,Positive
+O00682,2021-09-16,2021,Q3,Sep,C0333,Male,26-35,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,14,1075,3647,2753,Chennai,Tamil Nadu,South,2,No,5,Positive
+O00683,2019-01-20,2019,Q1,Jan,C0334,Male,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,44,321,5396,4875,Chennai,Tamil Nadu,South,5,Yes,5,Positive
+O00684,2015-09-27,2015,Q3,Sep,C0335,Male,18-25,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,49,1171,1357,1003,Chennai,Tamil Nadu,South,2,No,3,Neutral
+O00685,2016-01-30,2016,Q1,Jan,C0336,Male,18-25,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,82,533,7624,7044,Pune,Maharashtra,West,3,No,4,Positive
+O00686,2019-03-31,2019,Q1,Mar,C0337,Male,45+,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,24,804,1722,1055,Pune,Maharashtra,West,3,Yes,1,Negative
+O00687,2021-04-30,2021,Q2,Apr,C0338,Male,45+,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,154,413,3459,2841,Kolkata,West Bengal,East,5,Yes,3,Neutral
+O00688,2018-06-14,2018,Q2,Jun,C0339,Male,45+,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,37,441,7710,7073,Kolkata,West Bengal,East,6,No,1,Negative
+O00689,2012-08-20,2012,Q3,Aug,C0340,Female,36-45,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,210,133,7276,6615,Kolkata,West Bengal,East,2,No,2,Negative
+O00690,2014-05-28,2014,Q2,May,C0341,Male,18-25,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,19,167,4807,4147,Chennai,Tamil Nadu,South,5,No,4,Positive
+O00691,2015-07-11,2015,Q3,Jul,C0342,Female,36-45,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,1,244,7581,7162,Mumbai,Maharashtra,West,4,Yes,4,Positive
+O00692,2024-11-28,2024,Q4,Nov,C0343,Female,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,34,317,4063,3621,Bangalore,Karnataka,South,7,Yes,2,Negative
+O00693,2024-02-22,2024,Q1,Feb,C0344,Female,36-45,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,81,1131,7415,7191,Kolkata,West Bengal,East,3,Yes,5,Positive
+O00694,2019-01-18,2019,Q1,Jan,C0345,Male,45+,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,43,775,5237,4552,Pune,Maharashtra,West,4,No,1,Negative
+O00695,2023-11-15,2023,Q4,Nov,C0346,Female,26-35,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,72,307,5826,4991,Hyderabad,Telangana,South,1,Yes,5,Positive
+O00696,2022-03-11,2022,Q1,Mar,C0347,Male,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,74,753,7273,6640,Hyderabad,Telangana,South,4,Yes,4,Positive
+O00697,2017-02-03,2017,Q1,Feb,C0348,Male,26-35,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,71,1423,6656,6490,Mumbai,Maharashtra,West,2,No,3,Neutral
+O00698,2018-06-30,2018,Q2,Jun,C0349,Male,36-45,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,119,897,1477,1249,Hyderabad,Telangana,South,2,Yes,1,Negative
+O00699,2012-06-19,2012,Q2,Jun,C0350,Male,26-35,New,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,219,433,4953,4677,Mumbai,Maharashtra,West,1,Yes,1,Negative
+O00700,2013-06-28,2013,Q2,Jun,C0001,Male,36-45,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,183,304,3920,3404,Pune,Maharashtra,West,5,No,2,Negative
+O00701,2024-04-11,2024,Q2,Apr,C0002,Female,45+,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,97,1363,5412,4618,Kolkata,West Bengal,East,4,No,4,Positive
+O00702,2018-11-02,2018,Q4,Nov,C0003,Female,26-35,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,51,734,1629,1528,Kolkata,West Bengal,East,5,Yes,5,Positive
+O00703,2015-09-12,2015,Q3,Sep,C0004,Female,45+,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,145,170,1123,957,Kolkata,West Bengal,East,7,Yes,4,Positive
+O00704,2023-07-16,2023,Q3,Jul,C0005,Male,36-45,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,110,611,1982,1874,Mumbai,Maharashtra,West,7,Yes,5,Positive
+O00705,2017-03-12,2017,Q1,Mar,C0006,Female,36-45,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,24,778,2963,2843,Pune,Maharashtra,West,6,No,5,Positive
+O00706,2021-01-27,2021,Q1,Jan,C0007,Male,26-35,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,186,689,1748,1011,Mumbai,Maharashtra,West,1,No,1,Negative
+O00707,2020-02-10,2020,Q1,Feb,C0008,Female,26-35,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,75,671,1458,1343,Kolkata,West Bengal,East,7,No,4,Positive
+O00708,2021-03-13,2021,Q1,Mar,C0009,Male,26-35,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,140,178,6715,6458,Mumbai,Maharashtra,West,7,No,2,Negative
+O00709,2023-07-09,2023,Q3,Jul,C0010,Female,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,171,1033,3577,3297,Pune,Maharashtra,West,2,Yes,5,Positive
+O00710,2022-12-13,2022,Q4,Dec,C0011,Male,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,88,256,7357,6943,Chennai,Tamil Nadu,South,4,No,2,Negative
+O00711,2025-07-18,2025,Q3,Jul,C0012,Female,18-25,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,94,1170,1145,1045,Bangalore,Karnataka,South,3,No,5,Positive
+O00712,2013-07-24,2013,Q3,Jul,C0013,Male,45+,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,175,626,5280,4975,Pune,Maharashtra,West,1,Yes,3,Neutral
+O00713,2022-10-15,2022,Q4,Oct,C0014,Female,18-25,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,244,348,7821,7396,Kolkata,West Bengal,East,5,No,4,Positive
+O00714,2023-08-30,2023,Q3,Aug,C0015,Male,18-25,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,145,534,1666,1267,Chennai,Tamil Nadu,South,1,Yes,5,Positive
+O00715,2013-05-05,2013,Q2,May,C0016,Female,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,24,655,5067,4289,Hyderabad,Telangana,South,3,No,1,Negative
+O00716,2016-06-12,2016,Q2,Jun,C0017,Female,18-25,New,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,183,519,5114,4656,Hyderabad,Telangana,South,4,No,2,Negative
+O00717,2016-02-17,2016,Q1,Feb,C0018,Female,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,16,743,4880,4106,Hyderabad,Telangana,South,3,Yes,5,Positive
+O00718,2014-11-03,2014,Q4,Nov,C0019,Male,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,110,623,7405,6886,Hyderabad,Telangana,South,5,Yes,5,Positive
+O00719,2017-11-22,2017,Q4,Nov,C0020,Male,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,154,257,4876,4341,Delhi,Delhi,North,5,Yes,3,Neutral
+O00720,2016-05-17,2016,Q2,May,C0021,Male,18-25,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,74,249,3322,2537,Delhi,Delhi,North,1,No,4,Positive
+O00721,2024-03-11,2024,Q1,Mar,C0022,Male,26-35,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,111,517,4914,4239,Delhi,Delhi,North,2,Yes,3,Neutral
+O00722,2023-08-22,2023,Q3,Aug,C0023,Male,45+,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,133,416,4245,3643,Chennai,Tamil Nadu,South,6,Yes,4,Positive
+O00723,2025-05-21,2025,Q2,May,C0024,Female,26-35,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,0,650,4173,3537,Bangalore,Karnataka,South,5,No,2,Negative
+O00724,2020-10-10,2020,Q4,Oct,C0025,Male,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,53,1031,4457,3804,Hyderabad,Telangana,South,4,No,3,Neutral
+O00725,2014-07-14,2014,Q3,Jul,C0026,Female,36-45,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,90,412,1609,974,Pune,Maharashtra,West,2,Yes,4,Positive
+O00726,2023-08-31,2023,Q3,Aug,C0027,Female,26-35,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,145,1484,1758,1260,Bangalore,Karnataka,South,6,No,3,Neutral
+O00727,2020-01-10,2020,Q1,Jan,C0028,Female,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,60,363,1391,1074,Bangalore,Karnataka,South,4,Yes,4,Positive
+O00728,2023-07-07,2023,Q3,Jul,C0029,Female,45+,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,207,542,1983,1249,Delhi,Delhi,North,2,No,3,Neutral
+O00729,2024-10-11,2024,Q4,Oct,C0030,Female,45+,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,51,674,6788,6244,Pune,Maharashtra,West,7,No,4,Positive
+O00730,2020-05-03,2020,Q2,May,C0031,Female,26-35,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,86,609,2911,2536,Chennai,Tamil Nadu,South,6,Yes,1,Negative
+O00731,2025-08-06,2025,Q3,Aug,C0032,Male,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,116,1397,1368,625,Bangalore,Karnataka,South,5,Yes,1,Negative
+O00732,2025-08-14,2025,Q3,Aug,C0033,Male,45+,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,62,998,5210,4689,Delhi,Delhi,North,7,No,5,Positive
+O00733,2013-01-29,2013,Q1,Jan,C0034,Male,45+,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,47,293,7533,6698,Kolkata,West Bengal,East,1,No,3,Neutral
+O00734,2016-08-22,2016,Q3,Aug,C0035,Female,26-35,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,4,271,5966,5233,Mumbai,Maharashtra,West,6,No,3,Neutral
+O00735,2025-02-04,2025,Q1,Feb,C0036,Male,18-25,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,184,380,2338,1752,Mumbai,Maharashtra,West,5,No,4,Positive
+O00736,2018-01-25,2018,Q1,Jan,C0037,Female,45+,New,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,12,576,3353,2965,Hyderabad,Telangana,South,5,No,1,Negative
+O00737,2019-11-09,2019,Q4,Nov,C0038,Female,26-35,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,29,1227,6244,5597,Kolkata,West Bengal,East,6,Yes,5,Positive
+O00738,2014-03-14,2014,Q1,Mar,C0039,Male,45+,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,149,561,1542,1400,Kolkata,West Bengal,East,2,No,5,Positive
+O00739,2015-12-20,2015,Q4,Dec,C0040,Female,45+,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,139,322,4402,3579,Chennai,Tamil Nadu,South,4,Yes,4,Positive
+O00740,2022-05-07,2022,Q2,May,C0041,Female,36-45,New,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,200,232,2153,1963,Hyderabad,Telangana,South,1,Yes,4,Positive
+O00741,2025-05-29,2025,Q2,May,C0042,Male,36-45,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,14,1164,7014,6225,Hyderabad,Telangana,South,4,No,2,Negative
+O00742,2014-12-07,2014,Q4,Dec,C0043,Male,18-25,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,8,337,2109,1463,Chennai,Tamil Nadu,South,7,No,5,Positive
+O00743,2018-04-02,2018,Q2,Apr,C0044,Male,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,200,795,7726,6868,Mumbai,Maharashtra,West,4,No,2,Negative
+O00744,2018-10-04,2018,Q4,Oct,C0045,Male,36-45,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,179,736,2640,2180,Delhi,Delhi,North,7,Yes,2,Negative
+O00745,2021-04-24,2021,Q2,Apr,C0046,Female,18-25,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,70,176,6351,5506,Delhi,Delhi,North,4,No,3,Neutral
+O00746,2020-04-08,2020,Q2,Apr,C0047,Female,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,33,1508,3974,3334,Chennai,Tamil Nadu,South,7,No,1,Negative
+O00747,2017-11-22,2017,Q4,Nov,C0048,Male,26-35,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,85,1092,7583,7144,Kolkata,West Bengal,East,5,No,3,Neutral
+O00748,2019-09-01,2019,Q3,Sep,C0049,Male,36-45,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,172,777,3158,2854,Bangalore,Karnataka,South,1,Yes,3,Neutral
+O00749,2025-05-02,2025,Q2,May,C0050,Male,18-25,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,16,607,2236,1816,Kolkata,West Bengal,East,4,No,2,Negative
+O00750,2022-12-28,2022,Q4,Dec,C0051,Female,36-45,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,131,362,7593,7363,Hyderabad,Telangana,South,4,Yes,2,Negative
+O00751,2023-12-24,2023,Q4,Dec,C0052,Female,45+,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,108,808,7689,7038,Bangalore,Karnataka,South,3,No,5,Positive
+O00752,2021-06-27,2021,Q2,Jun,C0053,Female,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,105,853,3458,2583,Hyderabad,Telangana,South,6,No,4,Positive
+O00753,2024-10-04,2024,Q4,Oct,C0054,Female,18-25,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,129,948,1494,881,Kolkata,West Bengal,East,1,Yes,1,Negative
+O00754,2015-08-09,2015,Q3,Aug,C0055,Male,45+,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,246,418,4984,4104,Mumbai,Maharashtra,West,4,No,5,Positive
+O00755,2017-11-02,2017,Q4,Nov,C0056,Male,18-25,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,117,183,4666,3789,Hyderabad,Telangana,South,6,Yes,1,Negative
+O00756,2021-03-08,2021,Q1,Mar,C0057,Male,26-35,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,34,826,1711,1526,Pune,Maharashtra,West,3,Yes,4,Positive
+O00757,2015-02-17,2015,Q1,Feb,C0058,Male,45+,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,142,422,4254,3501,Hyderabad,Telangana,South,1,No,5,Positive
+O00758,2016-07-12,2016,Q3,Jul,C0059,Female,18-25,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,228,702,2679,2098,Bangalore,Karnataka,South,1,No,5,Positive
+O00759,2017-02-25,2017,Q1,Feb,C0060,Male,26-35,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,101,709,3635,3371,Hyderabad,Telangana,South,4,Yes,4,Positive
+O00760,2023-10-28,2023,Q4,Oct,C0061,Male,18-25,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,189,963,3978,3598,Bangalore,Karnataka,South,2,No,2,Negative
+O00761,2023-09-05,2023,Q3,Sep,C0062,Female,45+,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,163,1538,6115,5644,Hyderabad,Telangana,South,4,No,2,Negative
+O00762,2024-11-17,2024,Q4,Nov,C0063,Female,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,103,1109,2593,2368,Kolkata,West Bengal,East,1,Yes,2,Negative
+O00763,2016-10-30,2016,Q4,Oct,C0064,Female,45+,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,81,324,4943,4284,Chennai,Tamil Nadu,South,7,No,2,Negative
+O00764,2024-11-06,2024,Q4,Nov,C0065,Female,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,55,1406,3161,2812,Delhi,Delhi,North,4,Yes,3,Neutral
+O00765,2019-05-11,2019,Q2,May,C0066,Female,45+,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,82,1151,5539,5165,Hyderabad,Telangana,South,1,No,4,Positive
+O00766,2016-09-10,2016,Q3,Sep,C0067,Female,18-25,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,27,1161,5590,5365,Chennai,Tamil Nadu,South,7,No,3,Neutral
+O00767,2018-07-30,2018,Q3,Jul,C0068,Male,18-25,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,192,367,2441,1859,Chennai,Tamil Nadu,South,3,No,3,Neutral
+O00768,2016-03-04,2016,Q1,Mar,C0069,Male,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,164,440,6117,5374,Pune,Maharashtra,West,4,Yes,2,Negative
+O00769,2018-06-20,2018,Q2,Jun,C0070,Female,18-25,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,87,1052,7494,7276,Hyderabad,Telangana,South,4,Yes,4,Positive
+O00770,2020-02-08,2020,Q1,Feb,C0071,Female,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,17,1133,5323,4455,Delhi,Delhi,North,7,No,3,Neutral
+O00771,2021-08-21,2021,Q3,Aug,C0072,Male,45+,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,160,306,4659,4005,Kolkata,West Bengal,East,7,Yes,2,Negative
+O00772,2021-10-01,2021,Q4,Oct,C0073,Female,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,244,1043,1422,585,Pune,Maharashtra,West,3,Yes,2,Negative
+O00773,2023-02-15,2023,Q1,Feb,C0074,Male,26-35,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,97,989,5262,4824,Chennai,Tamil Nadu,South,6,No,1,Negative
+O00774,2014-04-06,2014,Q2,Apr,C0075,Female,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,101,623,5104,4551,Delhi,Delhi,North,7,Yes,2,Negative
+O00775,2023-04-18,2023,Q2,Apr,C0076,Male,26-35,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,127,506,3330,2939,Mumbai,Maharashtra,West,5,No,4,Positive
+O00776,2021-05-23,2021,Q2,May,C0077,Male,18-25,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,243,1106,1908,1737,Pune,Maharashtra,West,6,Yes,1,Negative
+O00777,2013-08-29,2013,Q3,Aug,C0078,Female,36-45,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,234,1264,3412,2782,Mumbai,Maharashtra,West,7,No,2,Negative
+O00778,2023-12-09,2023,Q4,Dec,C0079,Female,45+,New,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,50,658,6336,5667,Chennai,Tamil Nadu,South,4,No,1,Negative
+O00779,2016-07-11,2016,Q3,Jul,C0080,Male,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,213,872,4636,3872,Mumbai,Maharashtra,West,5,No,2,Negative
+O00780,2024-07-13,2024,Q3,Jul,C0081,Female,18-25,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,86,603,5272,4659,Hyderabad,Telangana,South,2,Yes,4,Positive
+O00781,2024-09-20,2024,Q3,Sep,C0082,Male,36-45,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,243,850,6463,5696,Pune,Maharashtra,West,1,Yes,4,Positive
+O00782,2024-08-18,2024,Q3,Aug,C0083,Female,45+,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,49,429,7617,7502,Hyderabad,Telangana,South,5,No,2,Negative
+O00783,2015-02-28,2015,Q1,Feb,C0084,Male,26-35,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,30,957,5644,5434,Kolkata,West Bengal,East,3,No,1,Negative
+O00784,2016-03-22,2016,Q1,Mar,C0085,Male,26-35,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,37,859,7082,6306,Bangalore,Karnataka,South,6,No,4,Positive
+O00785,2019-02-08,2019,Q1,Feb,C0086,Female,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,2,971,5906,5282,Kolkata,West Bengal,East,7,Yes,2,Negative
+O00786,2022-06-09,2022,Q2,Jun,C0087,Female,45+,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,56,1217,1083,378,Delhi,Delhi,North,1,No,2,Negative
+O00787,2016-08-26,2016,Q3,Aug,C0088,Female,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,168,1081,2908,2659,Chennai,Tamil Nadu,South,2,Yes,4,Positive
+O00788,2018-05-27,2018,Q2,May,C0089,Female,18-25,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,224,1176,3704,3153,Hyderabad,Telangana,South,5,Yes,2,Negative
+O00789,2023-10-12,2023,Q4,Oct,C0090,Male,26-35,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,192,938,3797,3092,Bangalore,Karnataka,South,4,Yes,4,Positive
+O00790,2021-01-19,2021,Q1,Jan,C0091,Female,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,100,1080,1766,1346,Mumbai,Maharashtra,West,6,No,1,Negative
+O00791,2016-12-30,2016,Q4,Dec,C0092,Male,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,111,990,2352,1885,Kolkata,West Bengal,East,3,No,5,Positive
+O00792,2019-12-09,2019,Q4,Dec,C0093,Female,45+,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,189,449,1020,766,Mumbai,Maharashtra,West,7,No,3,Neutral
+O00793,2022-09-07,2022,Q3,Sep,C0094,Female,18-25,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,190,249,6451,6351,Pune,Maharashtra,West,1,No,2,Negative
+O00794,2017-10-05,2017,Q4,Oct,C0095,Male,26-35,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,103,362,1886,1088,Hyderabad,Telangana,South,3,Yes,3,Neutral
+O00795,2019-06-12,2019,Q2,Jun,C0096,Male,18-25,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,207,447,4260,3820,Pune,Maharashtra,West,7,Yes,1,Negative
+O00796,2025-12-15,2025,Q4,Dec,C0097,Female,18-25,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,96,717,3057,2163,Mumbai,Maharashtra,West,3,Yes,2,Negative
+O00797,2021-02-26,2021,Q1,Feb,C0098,Female,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,168,932,6735,6454,Delhi,Delhi,North,6,Yes,2,Negative
+O00798,2016-06-24,2016,Q2,Jun,C0099,Male,26-35,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,129,548,6522,5839,Mumbai,Maharashtra,West,7,Yes,5,Positive
+O00799,2013-06-15,2013,Q2,Jun,C0100,Female,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,125,362,5615,5417,Hyderabad,Telangana,South,3,No,4,Positive
+O00800,2021-12-15,2021,Q4,Dec,C0101,Female,45+,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,177,658,1145,255,Chennai,Tamil Nadu,South,3,Yes,1,Negative
+O00801,2016-09-13,2016,Q3,Sep,C0102,Female,36-45,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,239,726,4922,4724,Hyderabad,Telangana,South,4,Yes,4,Positive
+O00802,2014-10-28,2014,Q4,Oct,C0103,Female,45+,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,188,254,7959,7394,Hyderabad,Telangana,South,6,Yes,3,Neutral
+O00803,2012-10-29,2012,Q4,Oct,C0104,Female,36-45,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,144,375,7759,7633,Hyderabad,Telangana,South,4,Yes,2,Negative
+O00804,2017-09-19,2017,Q3,Sep,C0105,Male,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,26,169,7341,6656,Hyderabad,Telangana,South,4,Yes,5,Positive
+O00805,2014-05-10,2014,Q2,May,C0106,Male,45+,New,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,147,715,3224,2332,Delhi,Delhi,North,1,Yes,2,Negative
+O00806,2017-12-29,2017,Q4,Dec,C0107,Male,45+,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,143,416,7866,7372,Hyderabad,Telangana,South,6,Yes,1,Negative
+O00807,2013-09-08,2013,Q3,Sep,C0108,Female,36-45,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,27,886,4799,4607,Kolkata,West Bengal,East,4,Yes,4,Positive
+O00808,2025-06-07,2025,Q2,Jun,C0109,Female,45+,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,177,365,6611,5738,Bangalore,Karnataka,South,7,Yes,1,Negative
+O00809,2013-12-20,2013,Q4,Dec,C0110,Male,45+,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,32,768,3435,2941,Kolkata,West Bengal,East,7,Yes,5,Positive
+O00810,2020-01-27,2020,Q1,Jan,C0111,Male,18-25,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,173,1256,5879,5189,Mumbai,Maharashtra,West,4,No,4,Positive
+O00811,2018-10-13,2018,Q4,Oct,C0112,Female,26-35,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,20,297,4923,4340,Chennai,Tamil Nadu,South,7,Yes,2,Negative
+O00812,2017-02-09,2017,Q1,Feb,C0113,Male,26-35,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,246,1063,6265,5889,Hyderabad,Telangana,South,3,No,5,Positive
+O00813,2012-08-08,2012,Q3,Aug,C0114,Male,26-35,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,41,671,3624,3133,Pune,Maharashtra,West,3,Yes,1,Negative
+O00814,2018-07-07,2018,Q3,Jul,C0115,Female,36-45,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,63,686,5515,5012,Chennai,Tamil Nadu,South,5,Yes,2,Negative
+O00815,2014-08-30,2014,Q3,Aug,C0116,Female,18-25,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,98,148,3833,3455,Delhi,Delhi,North,7,Yes,1,Negative
+O00816,2015-07-28,2015,Q3,Jul,C0117,Female,45+,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,160,644,3017,2618,Delhi,Delhi,North,6,Yes,5,Positive
+O00817,2017-01-30,2017,Q1,Jan,C0118,Male,45+,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,43,897,1830,1657,Delhi,Delhi,North,6,Yes,5,Positive
+O00818,2024-11-01,2024,Q4,Nov,C0119,Female,18-25,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,247,573,5220,4714,Hyderabad,Telangana,South,3,Yes,2,Negative
+O00819,2012-09-17,2012,Q3,Sep,C0120,Male,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,247,982,7057,6617,Pune,Maharashtra,West,5,No,1,Negative
+O00820,2018-11-30,2018,Q4,Nov,C0121,Male,45+,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,190,205,1211,944,Bangalore,Karnataka,South,1,No,3,Neutral
+O00821,2015-03-10,2015,Q1,Mar,C0122,Male,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,182,199,7034,6662,Hyderabad,Telangana,South,6,Yes,1,Negative
+O00822,2023-12-03,2023,Q4,Dec,C0123,Female,45+,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,216,645,3991,3856,Chennai,Tamil Nadu,South,3,Yes,3,Neutral
+O00823,2020-11-29,2020,Q4,Nov,C0124,Female,45+,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,95,450,1668,1465,Hyderabad,Telangana,South,1,Yes,2,Negative
+O00824,2014-08-15,2014,Q3,Aug,C0125,Male,36-45,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,47,1062,6901,6523,Chennai,Tamil Nadu,South,5,No,3,Neutral
+O00825,2018-04-19,2018,Q2,Apr,C0126,Female,36-45,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,96,880,2343,1731,Delhi,Delhi,North,3,No,3,Neutral
+O00826,2019-05-16,2019,Q2,May,C0127,Female,45+,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,42,945,5997,5896,Delhi,Delhi,North,7,No,1,Negative
+O00827,2014-03-12,2014,Q1,Mar,C0128,Male,26-35,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,143,1440,3434,2990,Pune,Maharashtra,West,7,Yes,5,Positive
+O00828,2022-06-15,2022,Q2,Jun,C0129,Male,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,171,1139,7685,7001,Kolkata,West Bengal,East,2,No,2,Negative
+O00829,2022-03-27,2022,Q1,Mar,C0130,Female,26-35,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,113,162,6793,6630,Delhi,Delhi,North,3,Yes,2,Negative
+O00830,2024-05-04,2024,Q2,May,C0131,Male,18-25,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,93,687,3192,2705,Kolkata,West Bengal,East,7,Yes,1,Negative
+O00831,2023-10-08,2023,Q4,Oct,C0132,Male,18-25,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,197,507,2707,2003,Delhi,Delhi,North,1,No,1,Negative
+O00832,2014-04-24,2014,Q2,Apr,C0133,Male,26-35,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,53,1554,5823,4952,Chennai,Tamil Nadu,South,4,Yes,5,Positive
+O00833,2016-07-16,2016,Q3,Jul,C0134,Female,45+,New,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,57,772,6709,6424,Bangalore,Karnataka,South,5,Yes,5,Positive
+O00834,2023-03-16,2023,Q1,Mar,C0135,Male,45+,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,90,1105,1008,488,Chennai,Tamil Nadu,South,7,No,4,Positive
+O00835,2017-06-01,2017,Q2,Jun,C0136,Female,45+,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,156,998,5361,4659,Bangalore,Karnataka,South,5,No,5,Positive
+O00836,2020-12-08,2020,Q4,Dec,C0137,Male,45+,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,129,183,1906,1755,Delhi,Delhi,North,1,Yes,4,Positive
+O00837,2023-08-13,2023,Q3,Aug,C0138,Male,45+,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,199,426,6596,5790,Kolkata,West Bengal,East,7,No,2,Negative
+O00838,2024-08-18,2024,Q3,Aug,C0139,Female,18-25,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,160,898,5616,5073,Bangalore,Karnataka,South,4,Yes,4,Positive
+O00839,2021-07-21,2021,Q3,Jul,C0140,Female,45+,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,141,797,6115,5403,Bangalore,Karnataka,South,5,No,2,Negative
+O00840,2019-04-30,2019,Q2,Apr,C0141,Female,18-25,New,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,60,592,4972,4820,Kolkata,West Bengal,East,5,No,3,Neutral
+O00841,2012-09-28,2012,Q3,Sep,C0142,Male,45+,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,250,268,7932,7726,Kolkata,West Bengal,East,2,No,2,Negative
+O00842,2013-11-27,2013,Q4,Nov,C0143,Male,45+,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,121,1749,6442,6224,Bangalore,Karnataka,South,3,Yes,4,Positive
+O00843,2024-12-19,2024,Q4,Dec,C0144,Female,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,66,688,2773,1928,Bangalore,Karnataka,South,6,Yes,4,Positive
+O00844,2022-12-19,2022,Q4,Dec,C0145,Male,26-35,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,209,422,2212,1376,Bangalore,Karnataka,South,1,No,3,Neutral
+O00845,2021-08-31,2021,Q3,Aug,C0146,Female,26-35,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,192,259,1193,588,Hyderabad,Telangana,South,1,No,3,Neutral
+O00846,2018-03-27,2018,Q1,Mar,C0147,Female,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,124,1052,2882,2718,Delhi,Delhi,North,1,Yes,2,Negative
+O00847,2013-11-10,2013,Q4,Nov,C0148,Female,45+,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,82,643,2984,2488,Kolkata,West Bengal,East,3,No,5,Positive
+O00848,2025-08-24,2025,Q3,Aug,C0149,Male,26-35,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,126,582,6367,6240,Chennai,Tamil Nadu,South,5,No,3,Neutral
+O00849,2018-01-08,2018,Q1,Jan,C0150,Female,36-45,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,42,1350,1553,933,Bangalore,Karnataka,South,7,Yes,1,Negative
+O00850,2014-08-31,2014,Q3,Aug,C0151,Female,36-45,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,131,1144,4345,3918,Hyderabad,Telangana,South,4,Yes,4,Positive
+O00851,2014-06-05,2014,Q2,Jun,C0152,Female,36-45,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,66,448,7216,6319,Mumbai,Maharashtra,West,3,No,1,Negative
+O00852,2017-07-30,2017,Q3,Jul,C0153,Female,45+,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,19,248,4060,3784,Mumbai,Maharashtra,West,5,No,2,Negative
+O00853,2016-03-28,2016,Q1,Mar,C0154,Female,36-45,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,119,1156,5927,5176,Hyderabad,Telangana,South,4,No,4,Positive
+O00854,2017-11-05,2017,Q4,Nov,C0155,Male,45+,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,1,214,5528,4705,Pune,Maharashtra,West,3,No,2,Negative
+O00855,2023-05-21,2023,Q2,May,C0156,Male,45+,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,95,211,7590,6966,Kolkata,West Bengal,East,7,No,5,Positive
+O00856,2019-06-12,2019,Q2,Jun,C0157,Female,36-45,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,84,782,5373,5029,Delhi,Delhi,North,5,Yes,5,Positive
+O00857,2025-11-20,2025,Q4,Nov,C0158,Male,36-45,New,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,220,755,7186,6828,Pune,Maharashtra,West,7,No,2,Negative
+O00858,2025-07-08,2025,Q3,Jul,C0159,Male,26-35,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,202,538,4079,3647,Delhi,Delhi,North,3,No,4,Positive
+O00859,2023-07-18,2023,Q3,Jul,C0160,Male,36-45,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,55,968,6904,6540,Kolkata,West Bengal,East,5,Yes,5,Positive
+O00860,2017-04-03,2017,Q2,Apr,C0161,Female,18-25,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,159,953,2841,1941,Mumbai,Maharashtra,West,7,Yes,3,Neutral
+O00861,2017-09-08,2017,Q3,Sep,C0162,Male,26-35,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,188,485,6855,6323,Mumbai,Maharashtra,West,5,Yes,1,Negative
+O00862,2021-02-07,2021,Q1,Feb,C0163,Female,36-45,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,52,769,2034,1610,Kolkata,West Bengal,East,6,No,1,Negative
+O00863,2013-01-20,2013,Q1,Jan,C0164,Female,36-45,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,93,322,3841,3469,Pune,Maharashtra,West,2,Yes,1,Negative
+O00864,2017-05-04,2017,Q2,May,C0165,Female,36-45,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,187,606,2449,1847,Kolkata,West Bengal,East,4,Yes,1,Negative
+O00865,2017-04-05,2017,Q2,Apr,C0166,Male,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,138,960,4235,3531,Pune,Maharashtra,West,6,Yes,5,Positive
+O00866,2017-10-27,2017,Q4,Oct,C0167,Male,36-45,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,227,312,6836,6527,Pune,Maharashtra,West,3,No,2,Negative
+O00867,2023-12-12,2023,Q4,Dec,C0168,Female,45+,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,159,767,3994,3127,Mumbai,Maharashtra,West,5,Yes,1,Negative
+O00868,2012-11-25,2012,Q4,Nov,C0169,Female,26-35,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,83,1126,3019,2325,Hyderabad,Telangana,South,2,No,2,Negative
+O00869,2014-03-13,2014,Q1,Mar,C0170,Female,36-45,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,246,305,4785,4595,Mumbai,Maharashtra,West,3,Yes,3,Neutral
+O00870,2013-09-22,2013,Q3,Sep,C0171,Female,18-25,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,197,388,4464,3975,Hyderabad,Telangana,South,4,Yes,2,Negative
+O00871,2023-06-30,2023,Q2,Jun,C0172,Female,45+,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,209,402,1999,1745,Pune,Maharashtra,West,6,No,4,Positive
+O00872,2015-11-18,2015,Q4,Nov,C0173,Male,18-25,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,136,1026,7126,6698,Kolkata,West Bengal,East,3,Yes,3,Neutral
+O00873,2016-11-15,2016,Q4,Nov,C0174,Female,36-45,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,133,980,7124,6406,Kolkata,West Bengal,East,2,Yes,3,Neutral
+O00874,2020-10-11,2020,Q4,Oct,C0175,Female,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,99,695,4913,4625,Pune,Maharashtra,West,2,No,5,Positive
+O00875,2022-05-29,2022,Q2,May,C0176,Male,18-25,New,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,164,477,4487,4266,Hyderabad,Telangana,South,4,Yes,5,Positive
+O00876,2013-07-05,2013,Q3,Jul,C0177,Male,26-35,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,146,992,3471,3125,Hyderabad,Telangana,South,6,No,4,Positive
+O00877,2012-04-26,2012,Q2,Apr,C0178,Female,18-25,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,245,315,5795,5633,Hyderabad,Telangana,South,2,Yes,2,Negative
+O00878,2023-08-31,2023,Q3,Aug,C0179,Male,18-25,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,232,303,2074,1421,Chennai,Tamil Nadu,South,6,No,2,Negative
+O00879,2014-05-25,2014,Q2,May,C0180,Male,26-35,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,139,603,4220,3618,Kolkata,West Bengal,East,7,Yes,2,Negative
+O00880,2021-03-30,2021,Q1,Mar,C0181,Male,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,188,511,5322,4865,Pune,Maharashtra,West,2,No,4,Positive
+O00881,2024-12-05,2024,Q4,Dec,C0182,Female,45+,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,25,778,6556,5811,Mumbai,Maharashtra,West,2,Yes,1,Negative
+O00882,2013-08-03,2013,Q3,Aug,C0183,Male,26-35,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,197,1419,6838,6382,Kolkata,West Bengal,East,5,No,4,Positive
+O00883,2021-12-10,2021,Q4,Dec,C0184,Male,26-35,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,133,327,2208,1488,Chennai,Tamil Nadu,South,2,No,5,Positive
+O00884,2015-10-07,2015,Q4,Oct,C0185,Female,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,2,1528,4471,4040,Pune,Maharashtra,West,6,No,3,Neutral
+O00885,2012-05-26,2012,Q2,May,C0186,Male,18-25,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,92,992,3256,2529,Chennai,Tamil Nadu,South,7,No,5,Positive
+O00886,2013-09-10,2013,Q3,Sep,C0187,Male,45+,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,56,820,6425,5707,Hyderabad,Telangana,South,5,No,4,Positive
+O00887,2014-09-19,2014,Q3,Sep,C0188,Female,45+,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,137,958,4879,4163,Bangalore,Karnataka,South,6,No,4,Positive
+O00888,2014-02-01,2014,Q1,Feb,C0189,Male,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,43,339,6182,5617,Bangalore,Karnataka,South,1,Yes,4,Positive
+O00889,2013-07-28,2013,Q3,Jul,C0190,Male,26-35,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,77,727,1552,765,Mumbai,Maharashtra,West,5,Yes,3,Neutral
+O00890,2017-04-15,2017,Q2,Apr,C0191,Female,36-45,New,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,222,461,5132,4258,Bangalore,Karnataka,South,3,Yes,3,Neutral
+O00891,2012-02-15,2012,Q1,Feb,C0192,Female,26-35,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,185,965,2786,2106,Delhi,Delhi,North,6,No,1,Negative
+O00892,2013-03-25,2013,Q1,Mar,C0193,Female,36-45,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,13,487,5173,4900,Bangalore,Karnataka,South,5,Yes,1,Negative
+O00893,2017-03-20,2017,Q1,Mar,C0194,Female,36-45,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,160,848,7583,7310,Kolkata,West Bengal,East,3,No,5,Positive
+O00894,2018-04-08,2018,Q2,Apr,C0195,Male,36-45,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,129,313,1440,1214,Hyderabad,Telangana,South,6,Yes,4,Positive
+O00895,2013-02-20,2013,Q1,Feb,C0196,Female,45+,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,11,713,6307,5814,Kolkata,West Bengal,East,6,No,2,Negative
+O00896,2013-12-24,2013,Q4,Dec,C0197,Male,36-45,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,76,618,7353,6643,Chennai,Tamil Nadu,South,2,Yes,1,Negative
+O00897,2021-02-01,2021,Q1,Feb,C0198,Male,45+,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,107,838,5267,4645,Mumbai,Maharashtra,West,6,No,3,Neutral
+O00898,2018-10-28,2018,Q4,Oct,C0199,Male,36-45,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,120,1108,5747,5549,Pune,Maharashtra,West,7,No,1,Negative
+O00899,2015-10-28,2015,Q4,Oct,C0200,Male,26-35,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,12,182,1737,1050,Mumbai,Maharashtra,West,3,Yes,4,Positive
+O00900,2021-08-07,2021,Q3,Aug,C0201,Female,18-25,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,91,301,4201,3412,Bangalore,Karnataka,South,2,Yes,1,Negative
+O00901,2017-02-05,2017,Q1,Feb,C0202,Male,36-45,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,87,989,3918,3785,Pune,Maharashtra,West,4,No,4,Positive
+O00902,2023-10-18,2023,Q4,Oct,C0203,Female,26-35,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,113,274,1592,1438,Kolkata,West Bengal,East,6,No,4,Positive
+O00903,2024-02-26,2024,Q1,Feb,C0204,Male,26-35,New,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,231,670,7811,7131,Mumbai,Maharashtra,West,7,Yes,4,Positive
+O00904,2022-03-20,2022,Q1,Mar,C0205,Female,26-35,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,80,473,6785,6173,Chennai,Tamil Nadu,South,5,Yes,1,Negative
+O00905,2023-12-02,2023,Q4,Dec,C0206,Female,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,116,529,2943,2079,Chennai,Tamil Nadu,South,5,Yes,3,Neutral
+O00906,2012-08-26,2012,Q3,Aug,C0207,Male,36-45,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,99,464,1139,830,Kolkata,West Bengal,East,4,Yes,4,Positive
+O00907,2019-12-24,2019,Q4,Dec,C0208,Male,26-35,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,126,464,3045,2790,Pune,Maharashtra,West,1,Yes,5,Positive
+O00908,2019-08-30,2019,Q3,Aug,C0209,Female,26-35,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,103,629,1746,1046,Hyderabad,Telangana,South,6,No,3,Neutral
+O00909,2025-07-03,2025,Q3,Jul,C0210,Female,36-45,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,10,1298,6391,5897,Pune,Maharashtra,West,7,No,2,Negative
+O00910,2012-07-07,2012,Q3,Jul,C0211,Female,45+,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,20,194,6119,5243,Hyderabad,Telangana,South,7,No,5,Positive
+O00911,2020-12-31,2020,Q4,Dec,C0212,Female,36-45,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,25,445,4529,4000,Mumbai,Maharashtra,West,3,Yes,4,Positive
+O00912,2025-09-19,2025,Q3,Sep,C0213,Female,36-45,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,22,503,1044,818,Chennai,Tamil Nadu,South,7,Yes,2,Negative
+O00913,2018-07-29,2018,Q3,Jul,C0214,Female,45+,New,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,10,528,3726,3602,Hyderabad,Telangana,South,5,No,4,Positive
+O00914,2021-08-05,2021,Q3,Aug,C0215,Male,18-25,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,248,217,1631,1349,Mumbai,Maharashtra,West,6,No,2,Negative
+O00915,2021-12-27,2021,Q4,Dec,C0216,Female,36-45,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,126,1490,2411,2153,Hyderabad,Telangana,South,2,Yes,1,Negative
+O00916,2016-08-05,2016,Q3,Aug,C0217,Female,36-45,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,63,825,7077,6720,Mumbai,Maharashtra,West,5,No,3,Neutral
+O00917,2018-08-03,2018,Q3,Aug,C0218,Male,45+,Premium,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,227,760,1232,394,Hyderabad,Telangana,South,1,Yes,1,Negative
+O00918,2022-12-29,2022,Q4,Dec,C0219,Female,18-25,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,246,458,3615,3505,Hyderabad,Telangana,South,6,Yes,3,Neutral
+O00919,2016-04-10,2016,Q2,Apr,C0220,Male,18-25,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,30,1243,7891,7041,Kolkata,West Bengal,East,6,Yes,4,Positive
+O00920,2022-02-01,2022,Q1,Feb,C0221,Male,26-35,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,185,1792,4115,3521,Mumbai,Maharashtra,West,7,Yes,3,Neutral
+O00921,2026-01-07,2026,Q1,Jan,C0222,Female,26-35,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,161,225,5701,5203,Delhi,Delhi,North,4,No,4,Positive
+O00922,2025-09-11,2025,Q3,Sep,C0223,Female,26-35,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,205,174,3203,2354,Hyderabad,Telangana,South,7,No,1,Negative
+O00923,2012-02-29,2012,Q1,Feb,C0224,Female,26-35,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,166,307,5990,5713,Bangalore,Karnataka,South,4,No,3,Neutral
+O00924,2016-06-20,2016,Q2,Jun,C0225,Female,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,2,998,78,315,5198,4436,Mumbai,Maharashtra,West,6,Yes,4,Positive
+O00925,2024-12-22,2024,Q4,Dec,C0226,Female,18-25,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,117,1084,2728,2352,Kolkata,West Bengal,East,6,No,3,Neutral
+O00926,2025-04-29,2025,Q2,Apr,C0227,Female,45+,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,228,370,4967,4504,Hyderabad,Telangana,South,6,Yes,4,Positive
+O00927,2024-02-05,2024,Q1,Feb,C0228,Female,26-35,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,121,375,1484,958,Pune,Maharashtra,West,1,No,4,Positive
+O00928,2019-01-24,2019,Q1,Jan,C0229,Male,36-45,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,220,416,7623,7312,Bangalore,Karnataka,South,1,No,2,Negative
+O00929,2025-12-05,2025,Q4,Dec,C0230,Female,26-35,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,108,457,4820,3968,Mumbai,Maharashtra,West,1,Yes,5,Positive
+O00930,2014-06-26,2014,Q2,Jun,C0231,Male,45+,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,51,798,1055,552,Hyderabad,Telangana,South,4,Yes,3,Neutral
+O00931,2023-12-25,2023,Q4,Dec,C0232,Female,18-25,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,116,424,7340,6595,Kolkata,West Bengal,East,6,Yes,1,Negative
+O00932,2018-05-10,2018,Q2,May,C0233,Female,26-35,New,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,3,715,5600,5387,Hyderabad,Telangana,South,6,Yes,4,Positive
+O00933,2016-05-03,2016,Q2,May,C0234,Male,18-25,Inactive,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,129,344,4458,4302,Mumbai,Maharashtra,West,3,Yes,5,Positive
+O00934,2012-04-03,2012,Q2,Apr,C0235,Female,18-25,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,104,888,7372,6945,Hyderabad,Telangana,South,7,No,2,Negative
+O00935,2014-03-22,2014,Q1,Mar,C0236,Male,26-35,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,129,957,7437,7213,Kolkata,West Bengal,East,2,Yes,2,Negative
+O00936,2016-08-10,2016,Q3,Aug,C0237,Male,26-35,Inactive,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,160,485,7450,7277,Delhi,Delhi,North,4,Yes,4,Positive
+O00937,2013-11-24,2013,Q4,Nov,C0238,Female,45+,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,107,579,1069,747,Kolkata,West Bengal,East,1,Yes,5,Positive
+O00938,2022-01-11,2022,Q1,Jan,C0239,Female,36-45,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,153,446,4774,4557,Chennai,Tamil Nadu,South,1,No,3,Neutral
+O00939,2023-05-03,2023,Q2,May,C0240,Male,18-25,New,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,19,207,2745,2267,Mumbai,Maharashtra,West,7,Yes,2,Negative
+O00940,2017-01-25,2017,Q1,Jan,C0241,Female,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,56,983,2926,2222,Pune,Maharashtra,West,1,Yes,4,Positive
+O00941,2017-11-11,2017,Q4,Nov,C0242,Female,18-25,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,2,1598,235,503,5937,5040,Kolkata,West Bengal,East,4,No,4,Positive
+O00942,2013-12-09,2013,Q4,Dec,C0243,Female,45+,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,243,633,5228,4706,Bangalore,Karnataka,South,4,No,2,Negative
+O00943,2024-11-17,2024,Q4,Nov,C0244,Male,26-35,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,30,1122,5866,5412,Kolkata,West Bengal,East,1,Yes,5,Positive
+O00944,2024-12-05,2024,Q4,Dec,C0245,Male,26-35,Regular,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,151,932,3641,2759,Kolkata,West Bengal,East,5,No,2,Negative
+O00945,2022-08-16,2022,Q3,Aug,C0246,Male,36-45,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,2,758,1541,1136,Pune,Maharashtra,West,5,No,1,Negative
+O00946,2019-03-20,2019,Q1,Mar,C0247,Female,26-35,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,165,597,3443,3208,Kolkata,West Bengal,East,4,Yes,2,Negative
+O00947,2017-11-21,2017,Q4,Nov,C0248,Male,45+,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,2,1198,78,449,2942,2612,Bangalore,Karnataka,South,4,Yes,4,Positive
+O00948,2015-10-18,2015,Q4,Oct,C0249,Female,45+,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,198,869,1450,564,Hyderabad,Telangana,South,6,Yes,4,Positive
+O00949,2024-05-06,2024,Q2,May,C0250,Male,36-45,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,3,1797,141,659,4588,3868,Chennai,Tamil Nadu,South,1,No,2,Negative
+O00950,2014-11-26,2014,Q4,Nov,C0251,Male,18-25,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,136,741,6975,6651,Bangalore,Karnataka,South,2,No,3,Neutral
+O00951,2013-03-25,2013,Q1,Mar,C0252,Male,18-25,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,40,261,4562,4411,Kolkata,West Bengal,East,3,No,1,Negative
+O00952,2020-10-26,2020,Q4,Oct,C0253,Male,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,135,1098,3402,2992,Chennai,Tamil Nadu,South,7,Yes,4,Positive
+O00953,2017-12-06,2017,Q4,Dec,C0254,Male,45+,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,122,792,3617,3268,Pune,Maharashtra,West,2,No,4,Positive
+O00954,2015-02-10,2015,Q1,Feb,C0255,Female,26-35,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,203,1772,5810,5606,Delhi,Delhi,North,4,Yes,3,Neutral
+O00955,2025-08-05,2025,Q3,Aug,C0256,Male,45+,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,219,1000,6670,6138,Hyderabad,Telangana,South,3,Yes,5,Positive
+O00956,2015-02-10,2015,Q1,Feb,C0257,Male,18-25,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,16,680,4518,4049,Delhi,Delhi,North,6,No,2,Negative
+O00957,2017-10-30,2017,Q4,Oct,C0258,Male,45+,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,88,431,7124,6971,Mumbai,Maharashtra,West,2,Yes,5,Positive
+O00958,2021-04-30,2021,Q2,Apr,C0259,Male,45+,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,154,782,2343,1862,Kolkata,West Bengal,East,6,No,1,Negative
+O00959,2012-08-12,2012,Q3,Aug,C0260,Female,36-45,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,109,485,6250,5558,Mumbai,Maharashtra,West,4,No,4,Positive
+O00960,2012-03-17,2012,Q1,Mar,C0261,Male,36-45,Inactive,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,174,185,7975,7607,Kolkata,West Bengal,East,6,No,2,Negative
+O00961,2020-09-23,2020,Q3,Sep,C0262,Male,36-45,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,62,1106,6585,6355,Bangalore,Karnataka,South,3,Yes,5,Positive
+O00962,2021-07-26,2021,Q3,Jul,C0263,Male,45+,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,203,176,2329,1468,Mumbai,Maharashtra,West,4,Yes,1,Negative
+O00963,2017-12-17,2017,Q4,Dec,C0264,Male,26-35,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,124,845,7481,7346,Hyderabad,Telangana,South,2,Yes,5,Positive
+O00964,2024-12-05,2024,Q4,Dec,C0265,Male,36-45,Regular,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,176,1427,2413,1846,Delhi,Delhi,North,6,Yes,5,Positive
+O00965,2014-05-02,2014,Q2,May,C0266,Female,18-25,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,1,887,4110,3366,Bangalore,Karnataka,South,7,No,4,Positive
+O00966,2013-03-22,2013,Q1,Mar,C0267,Female,36-45,New,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,91,728,2091,1608,Delhi,Delhi,North,4,No,5,Positive
+O00967,2016-09-22,2016,Q3,Sep,C0268,Female,26-35,New,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,41,1066,4900,4444,Mumbai,Maharashtra,West,7,No,4,Positive
+O00968,2014-05-22,2014,Q2,May,C0269,Male,18-25,Premium,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,236,515,5978,5705,Pune,Maharashtra,West,7,No,4,Positive
+O00969,2017-04-06,2017,Q2,Apr,C0270,Male,45+,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,1,899,172,299,6862,6678,Kolkata,West Bengal,East,3,No,4,Positive
+O00970,2020-10-30,2020,Q4,Oct,C0271,Female,45+,New,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,13,191,3181,2341,Bangalore,Karnataka,South,1,No,4,Positive
+O00971,2014-10-28,2014,Q4,Oct,C0272,Female,45+,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,144,418,5043,4164,Hyderabad,Telangana,South,5,Yes,5,Positive
+O00972,2019-12-01,2019,Q4,Dec,C0273,Male,45+,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,37,1401,1407,566,Bangalore,Karnataka,South,4,Yes,5,Positive
+O00973,2015-12-08,2015,Q4,Dec,C0274,Male,36-45,Regular,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,38,276,6453,5721,Kolkata,West Bengal,East,6,Yes,5,Positive
+O00974,2024-06-06,2024,Q2,Jun,C0275,Male,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,191,763,4903,4486,Kolkata,West Bengal,East,4,No,2,Negative
+O00975,2012-07-04,2012,Q3,Jul,C0276,Female,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,176,1050,7726,7302,Hyderabad,Telangana,South,2,Yes,2,Negative
+O00976,2012-01-21,2012,Q1,Jan,C0277,Female,18-25,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,81,518,3883,2995,Pune,Maharashtra,West,5,No,2,Negative
+O00977,2012-03-06,2012,Q1,Mar,C0278,Female,26-35,Premium,Mamaearth,Skincare,Serum,899,Mid Price Listing,4,3596,70,1230,4135,3940,Hyderabad,Telangana,South,4,Yes,1,Negative
+O00978,2014-01-05,2014,Q1,Jan,C0279,Male,45+,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,2,1798,231,520,5288,5107,Chennai,Tamil Nadu,South,6,No,3,Neutral
+O00979,2017-11-10,2017,Q4,Nov,C0280,Female,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,235,306,6153,5742,Chennai,Tamil Nadu,South,6,Yes,3,Neutral
+O00980,2024-09-03,2024,Q3,Sep,C0281,Female,18-25,New,Kay Beauty,Makeup,Blush,899,Mid Price Listing,2,1798,11,466,3939,3462,Bangalore,Karnataka,South,3,No,2,Negative
+O00981,2017-05-23,2017,Q2,May,C0282,Male,26-35,Premium,Nivea,Skincare,Moisturizer,499,Low Price Listing,1,499,143,131,6270,5533,Kolkata,West Bengal,East,2,Yes,4,Positive
+O00982,2015-10-11,2015,Q4,Oct,C0283,Female,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,2,1998,21,840,5441,5003,Delhi,Delhi,North,6,No,1,Negative
+O00983,2014-11-10,2014,Q4,Nov,C0284,Male,18-25,Premium,L'Oreal,Skincare,Shampoo,999,Premium Listing,4,3996,186,1762,7749,6855,Bangalore,Karnataka,South,6,No,2,Negative
+O00984,2012-08-15,2012,Q3,Aug,C0285,Male,45+,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,213,903,4656,3771,Pune,Maharashtra,West,2,Yes,3,Neutral
+O00985,2012-01-03,2012,Q1,Jan,C0286,Female,18-25,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,191,378,3981,3298,Pune,Maharashtra,West,4,Yes,4,Positive
+O00986,2012-04-10,2012,Q2,Apr,C0287,Female,36-45,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,3,2397,202,822,7224,6762,Kolkata,West Bengal,East,1,No,3,Neutral
+O00987,2025-08-06,2025,Q3,Aug,C0288,Male,18-25,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,127,1598,3116,2493,Hyderabad,Telangana,South,3,No,5,Positive
+O00988,2020-06-21,2020,Q2,Jun,C0289,Male,36-45,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,4,3596,163,1281,1400,927,Delhi,Delhi,North,1,No,2,Negative
+O00989,2014-01-15,2014,Q1,Jan,C0290,Female,18-25,New,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,179,918,4873,4504,Chennai,Tamil Nadu,South,5,Yes,5,Positive
+O00990,2021-09-23,2021,Q3,Sep,C0291,Female,26-35,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,1,899,52,235,2692,2315,Mumbai,Maharashtra,West,1,No,3,Neutral
+O00991,2022-08-03,2022,Q3,Aug,C0292,Male,26-35,Premium,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,1,799,170,251,4695,3909,Delhi,Delhi,North,3,Yes,2,Negative
+O00992,2014-05-11,2014,Q2,May,C0293,Male,36-45,Inactive,Kay Beauty,Makeup,Blush,899,Mid Price Listing,3,2697,227,728,6067,5752,Delhi,Delhi,North,5,Yes,2,Negative
+O00993,2023-12-29,2023,Q4,Dec,C0294,Male,45+,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,4,1996,88,533,7519,6672,Mumbai,Maharashtra,West,4,Yes,5,Positive
+O00994,2017-05-14,2017,Q2,May,C0295,Male,26-35,Inactive,Mamaearth,Skincare,Serum,899,Mid Price Listing,3,2697,51,738,6621,6068,Kolkata,West Bengal,East,7,Yes,2,Negative
+O00995,2017-06-24,2017,Q2,Jun,C0296,Male,18-25,Regular,Nivea,Skincare,Moisturizer,499,Low Price Listing,3,1497,20,431,3077,2495,Pune,Maharashtra,West,2,No,3,Neutral
+O00996,2021-09-21,2021,Q3,Sep,C0297,Female,26-35,Inactive,L'Oreal,Skincare,Shampoo,999,Premium Listing,1,999,67,320,2918,2703,Kolkata,West Bengal,East,3,Yes,4,Positive
+O00997,2014-06-07,2014,Q2,Jun,C0298,Female,26-35,Regular,Lakme,Makeup,Foundation,599,Mid Price Listing,4,2396,145,885,5542,4707,Mumbai,Maharashtra,West,3,Yes,1,Negative
+O00998,2021-09-20,2021,Q3,Sep,C0299,Female,18-25,New,L'Oreal,Skincare,Shampoo,999,Premium Listing,3,2997,80,936,6720,5981,Bangalore,Karnataka,South,1,No,2,Negative
+O00999,2022-11-10,2022,Q4,Nov,C0300,Male,36-45,New,Lakme,Makeup,Foundation,599,Mid Price Listing,1,599,119,263,3591,3225,Kolkata,West Bengal,East,3,Yes,2,Negative
+O01000,2017-01-26,2017,Q1,Jan,C0301,Female,45+,Regular,Nykaa Cosmetics,Makeup,Lipstick,799,Mid Price Listing,4,3196,72,1241,3804,3602,Chennai,Tamil Nadu,South,4,Yes,2,Negative
